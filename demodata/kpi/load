@@ -1,0 +1,6018 @@
+{
+  "status": {
+    "code": "I00",
+    "message": ""
+  },
+  "result": {
+    "data": [
+      {
+        "code": "KPI-01",
+        "time": "2019/01/01 07:00:00.000",
+        "placeCode": "SLFA",
+        "value": "78.4"
+      },
+      {
+        "code": "KPI-02",
+        "time": "2019/01/01 07:00:00.000",
+        "placeCode": "SLFA",
+        "value": "40"
+      },
+      {
+        "code": "KPI-03",
+        "time": "2019/01/01 07:00:00.000",
+        "placeCode": "SLFA",
+        "value": "60"
+      },
+      {
+        "code": "KPI-04",
+        "time": "2019/01/01 07:00:00.000",
+        "placeCode": "SLFA",
+        "value": "90"
+      },
+      {
+        "code": "KPI-05",
+        "time": "2019/01/01 07:00:00.000",
+        "placeCode": "SLFA",
+        "value": "78.4"
+      },
+      {
+        "code": "KPI-06",
+        "time": "2019/01/01 07:00:00.000",
+        "placeCode": "SLFA",
+        "value": "78.4"
+      },
+      {
+        "code": "KPI-07",
+        "time": "2018/01/01 00:00:00.000",
+        "placeCode": "SLFA",
+        "value": "23000"
+      },
+      {
+        "code": "KPI-07",
+        "time": "2018/02/01 00:00:00.000",
+        "placeCode": "SLFA",
+        "value": "26000"
+      },
+      {
+        "code": "KPI-07",
+        "time": "2018/03/01 00:00:00.000",
+        "placeCode": "SLFA",
+        "value": "31000"
+      },
+      {
+        "code": "KPI-07",
+        "time": "2018/04/01 00:00:00.000",
+        "placeCode": "SLFA",
+        "value": "38000"
+      },
+      {
+        "code": "KPI-07",
+        "time": "2018/05/01 00:00:00.000",
+        "placeCode": "SLFA",
+        "value": "48000"
+      },
+      {
+        "code": "KPI-07",
+        "time": "2018/06/01 00:00:00.000",
+        "placeCode": "SLFA",
+        "value": "49000"
+      },
+      {
+        "code": "KPI-07",
+        "time": "2018/07/01 00:00:00.000",
+        "placeCode": "SLFA",
+        "value": "58000"
+      },
+      {
+        "code": "KPI-07",
+        "time": "2018/08/01 00:00:00.000",
+        "placeCode": "SLFA",
+        "value": "58000"
+      },
+      {
+        "code": "KPI-07",
+        "time": "2018/09/01 00:00:00.000",
+        "placeCode": "SLFA",
+        "value": "61000"
+      },
+      {
+        "code": "KPI-07",
+        "time": "2018/10/01 00:00:00.000",
+        "placeCode": "SLFA",
+        "value": "69000"
+      },
+      {
+        "code": "KPI-07",
+        "time": "2018/11/01 00:00:00.000",
+        "placeCode": "SLFA",
+        "value": "77000"
+      },
+      {
+        "code": "KPI-07",
+        "time": "2018/12/01 00:00:00.000",
+        "placeCode": "SLFA",
+        "value": "88000"
+      },
+      {
+        "code": "KPI-08",
+        "time": "2019/01/01 07:00:00.000",
+        "placeCode": "SLFA",
+        "value": "7589"
+      },
+      {
+        "code": "KPI-09",
+        "time": "2019/01/01 07:00:00.000",
+        "placeCode": "SLFA",
+        "value": "78.4"
+      },
+      {
+        "code": "KPI-10",
+        "time": "2018/12/31 08:00:00.00",
+        "placeCode": "SLFA",
+        "value": "860"
+      },
+      {
+        "code": "KPI-10",
+        "time": "2018/12/31 09:00:00.00",
+        "placeCode": "SLFA",
+        "value": "920"
+      },
+      {
+        "code": "KPI-10",
+        "time": "2018/12/31 10:00:00.00",
+        "placeCode": "SLFA",
+        "value": "860"
+      },
+      {
+        "code": "KPI-10",
+        "time": "2018/12/31 11:00:00.00",
+        "placeCode": "SLFA",
+        "value": "810"
+      },
+      {
+        "code": "KPI-10",
+        "time": "2018/12/31 12:00:00.00",
+        "placeCode": "SLFA",
+        "value": "860"
+      },
+      {
+        "code": "KPI-10",
+        "time": "2018/12/31 13:00:00.00",
+        "placeCode": "SLFA",
+        "value": "910"
+      },
+      {
+        "code": "KPI-10",
+        "time": "2018/12/31 14:00:00.00",
+        "placeCode": "SLFA",
+        "value": "810"
+      },
+      {
+        "code": "KPI-10",
+        "time": "2018/12/31 15:00:00.00",
+        "placeCode": "SLFA",
+        "value": "810"
+      },
+      {
+        "code": "KPI-10",
+        "time": "2018/12/31 16:00:00.00",
+        "placeCode": "SLFA",
+        "value": "870"
+      },
+      {
+        "code": "KPI-10",
+        "time": "2018/12/31 17:00:00.00",
+        "placeCode": "SLFA",
+        "value": "880"
+      },
+      {
+        "code": "KPI-10",
+        "time": "2018/12/31 18:00:00.00",
+        "placeCode": "SLFA",
+        "value": "870"
+      },
+      {
+        "code": "KPI-10",
+        "time": "2018/12/31 19:00:00.00",
+        "placeCode": "SLFA",
+        "value": "680"
+      },
+      {
+        "code": "KPI-10",
+        "time": "2018/12/31 20:00:00.00",
+        "placeCode": "SLFA",
+        "value": "840"
+      },
+      {
+        "code": "KPI-10",
+        "time": "2018/12/31 21:00:00.00",
+        "placeCode": "SLFA",
+        "value": "840"
+      },
+      {
+        "code": "KPI-10",
+        "time": "2018/12/31 22:00:00.00",
+        "placeCode": "SLFA",
+        "value": "885"
+      },
+      {
+        "code": "KPI-10",
+        "time": "2018/12/31 23:00:00.00",
+        "placeCode": "SLFA",
+        "value": "780"
+      },
+      {
+        "code": "KPI-10",
+        "time": "2018/12/31 24:00:00.00",
+        "placeCode": "SLFA",
+        "value": "780"
+      },
+      {
+        "code": "KPI-10",
+        "time": "2019/01/01 01:00:00.00",
+        "placeCode": "SLFA",
+        "value": "860"
+      },
+      {
+        "code": "KPI-10",
+        "time": "2019/01/01 02:00:00.00",
+        "placeCode": "SLFA",
+        "value": "680"
+      },
+      {
+        "code": "KPI-10",
+        "time": "2019/01/01 03:00:00.00",
+        "placeCode": "SLFA",
+        "value": "680"
+      },
+      {
+        "code": "KPI-10",
+        "time": "2019/01/01 04:00:00.00",
+        "placeCode": "SLFA",
+        "value": "770"
+      },
+      {
+        "code": "KPI-10",
+        "time": "2019/01/01 05:00:00.00",
+        "placeCode": "SLFA",
+        "value": "680"
+      },
+      {
+        "code": "KPI-10",
+        "time": "2019/01/01 06:00:00.00",
+        "placeCode": "SLFA",
+        "value": "680"
+      },
+      {
+        "code": "KPI-10",
+        "time": "2019/01/01 07:00:00.00",
+        "placeCode": "SLFA",
+        "value": "870"
+      },
+      {
+        "code": "KPI-11",
+        "time": "2018/12/31 08:00:00.00",
+        "placeCode": "SLFA",
+        "value": "560"
+      },
+      {
+        "code": "KPI-11",
+        "time": "2018/12/31 09:00:00.00",
+        "placeCode": "SLFA",
+        "value": "620"
+      },
+      {
+        "code": "KPI-11",
+        "time": "2018/12/31 10:00:00.00",
+        "placeCode": "SLFA",
+        "value": "560"
+      },
+      {
+        "code": "KPI-11",
+        "time": "2018/12/31 11:00:00.00",
+        "placeCode": "SLFA",
+        "value": "510"
+      },
+      {
+        "code": "KPI-11",
+        "time": "2018/12/31 12:00:00.00",
+        "placeCode": "SLFA",
+        "value": "560"
+      },
+      {
+        "code": "KPI-11",
+        "time": "2018/12/31 13:00:00.00",
+        "placeCode": "SLFA",
+        "value": "610"
+      },
+      {
+        "code": "KPI-11",
+        "time": "2018/12/31 14:00:00.00",
+        "placeCode": "SLFA",
+        "value": "510"
+      },
+      {
+        "code": "KPI-11",
+        "time": "2018/12/31 15:00:00.00",
+        "placeCode": "SLFA",
+        "value": "510"
+      },
+      {
+        "code": "KPI-11",
+        "time": "2018/12/31 16:00:00.00",
+        "placeCode": "SLFA",
+        "value": "570"
+      },
+      {
+        "code": "KPI-11",
+        "time": "2018/12/31 17:00:00.00",
+        "placeCode": "SLFA",
+        "value": "580"
+      },
+      {
+        "code": "KPI-11",
+        "time": "2018/12/31 18:00:00.00",
+        "placeCode": "SLFA",
+        "value": "570"
+      },
+      {
+        "code": "KPI-11",
+        "time": "2018/12/31 19:00:00.00",
+        "placeCode": "SLFA",
+        "value": "380"
+      },
+      {
+        "code": "KPI-11",
+        "time": "2018/12/31 20:00:00.00",
+        "placeCode": "SLFA",
+        "value": "540"
+      },
+      {
+        "code": "KPI-11",
+        "time": "2018/12/31 21:00:00.00",
+        "placeCode": "SLFA",
+        "value": "540"
+      },
+      {
+        "code": "KPI-11",
+        "time": "2018/12/31 22:00:00.00",
+        "placeCode": "SLFA",
+        "value": "585"
+      },
+      {
+        "code": "KPI-11",
+        "time": "2018/12/31 23:00:00.00",
+        "placeCode": "SLFA",
+        "value": "480"
+      },
+      {
+        "code": "KPI-11",
+        "time": "2018/12/31 24:00:00.00",
+        "placeCode": "SLFA",
+        "value": "480"
+      },
+      {
+        "code": "KPI-11",
+        "time": "2019/01/01 01:00:00.00",
+        "placeCode": "SLFA",
+        "value": "560"
+      },
+      {
+        "code": "KPI-11",
+        "time": "2019/01/01 02:00:00.00",
+        "placeCode": "SLFA",
+        "value": "380"
+      },
+      {
+        "code": "KPI-11",
+        "time": "2019/01/01 03:00:00.00",
+        "placeCode": "SLFA",
+        "value": "380"
+      },
+      {
+        "code": "KPI-11",
+        "time": "2019/01/01 04:00:00.00",
+        "placeCode": "SLFA",
+        "value": "470"
+      },
+      {
+        "code": "KPI-11",
+        "time": "2019/01/01 05:00:00.00",
+        "placeCode": "SLFA",
+        "value": "380"
+      },
+      {
+        "code": "KPI-11",
+        "time": "2019/01/01 06:00:00.00",
+        "placeCode": "SLFA",
+        "value": "380"
+      },
+      {
+        "code": "KPI-11",
+        "time": "2019/01/01 07:00:00.00",
+        "placeCode": "SLFA",
+        "value": "570"
+      },
+      {
+        "code": "KPI-12",
+        "time": "2018/12/31 08:00:00.00",
+        "placeCode": "SLFA",
+        "value": "310"
+      },
+      {
+        "code": "KPI-12",
+        "time": "2018/12/31 09:00:00.00",
+        "placeCode": "SLFA",
+        "value": "370"
+      },
+      {
+        "code": "KPI-12",
+        "time": "2018/12/31 10:00:00.00",
+        "placeCode": "SLFA",
+        "value": "310"
+      },
+      {
+        "code": "KPI-12",
+        "time": "2018/12/31 11:00:00.00",
+        "placeCode": "SLFA",
+        "value": "260"
+      },
+      {
+        "code": "KPI-12",
+        "time": "2018/12/31 12:00:00.00",
+        "placeCode": "SLFA",
+        "value": "310"
+      },
+      {
+        "code": "KPI-12",
+        "time": "2018/12/31 13:00:00.00",
+        "placeCode": "SLFA",
+        "value": "360"
+      },
+      {
+        "code": "KPI-12",
+        "time": "2018/12/31 14:00:00.00",
+        "placeCode": "SLFA",
+        "value": "260"
+      },
+      {
+        "code": "KPI-12",
+        "time": "2018/12/31 15:00:00.00",
+        "placeCode": "SLFA",
+        "value": "260"
+      },
+      {
+        "code": "KPI-12",
+        "time": "2018/12/31 16:00:00.00",
+        "placeCode": "SLFA",
+        "value": "320"
+      },
+      {
+        "code": "KPI-12",
+        "time": "2018/12/31 17:00:00.00",
+        "placeCode": "SLFA",
+        "value": "330"
+      },
+      {
+        "code": "KPI-12",
+        "time": "2018/12/31 18:00:00.00",
+        "placeCode": "SLFA",
+        "value": "320"
+      },
+      {
+        "code": "KPI-12",
+        "time": "2018/12/31 19:00:00.00",
+        "placeCode": "SLFA",
+        "value": "130"
+      },
+      {
+        "code": "KPI-12",
+        "time": "2018/12/31 20:00:00.00",
+        "placeCode": "SLFA",
+        "value": "290"
+      },
+      {
+        "code": "KPI-12",
+        "time": "2018/12/31 21:00:00.00",
+        "placeCode": "SLFA",
+        "value": "290"
+      },
+      {
+        "code": "KPI-12",
+        "time": "2018/12/31 22:00:00.00",
+        "placeCode": "SLFA",
+        "value": "335"
+      },
+      {
+        "code": "KPI-12",
+        "time": "2018/12/31 23:00:00.00",
+        "placeCode": "SLFA",
+        "value": "230"
+      },
+      {
+        "code": "KPI-12",
+        "time": "2018/12/31 24:00:00.00",
+        "placeCode": "SLFA",
+        "value": "230"
+      },
+      {
+        "code": "KPI-12",
+        "time": "2019/01/01 01:00:00.00",
+        "placeCode": "SLFA",
+        "value": "310"
+      },
+      {
+        "code": "KPI-12",
+        "time": "2019/01/01 02:00:00.00",
+        "placeCode": "SLFA",
+        "value": "130"
+      },
+      {
+        "code": "KPI-12",
+        "time": "2019/01/01 03:00:00.00",
+        "placeCode": "SLFA",
+        "value": "130"
+      },
+      {
+        "code": "KPI-12",
+        "time": "2019/01/01 04:00:00.00",
+        "placeCode": "SLFA",
+        "value": "220"
+      },
+      {
+        "code": "KPI-12",
+        "time": "2019/01/01 05:00:00.00",
+        "placeCode": "SLFA",
+        "value": "130"
+      },
+      {
+        "code": "KPI-12",
+        "time": "2019/01/01 06:00:00.00",
+        "placeCode": "SLFA",
+        "value": "130"
+      },
+      {
+        "code": "KPI-12",
+        "time": "2019/01/01 07:00:00.00",
+        "placeCode": "SLFA",
+        "value": "320"
+      },
+      {
+        "code": "KPI-13",
+        "time": "",
+        "placeCode": "SLFA",
+        "value": "679"
+      },
+      {
+        "code": "KPI-14",
+        "time": "",
+        "placeCode": "SLFA",
+        "value": "78"
+      },
+      {
+        "code": "KPI-15",
+        "time": "2018/12/31 08:00:00.00",
+        "placeCode": "SLFA",
+        "value": "560"
+      },
+      {
+        "code": "KPI-15",
+        "time": "2018/12/31 09:00:00.00",
+        "placeCode": "SLFA",
+        "value": "620"
+      },
+      {
+        "code": "KPI-15",
+        "time": "2018/12/31 10:00:00.00",
+        "placeCode": "SLFA",
+        "value": "560"
+      },
+      {
+        "code": "KPI-15",
+        "time": "2018/12/31 11:00:00.00",
+        "placeCode": "SLFA",
+        "value": "510"
+      },
+      {
+        "code": "KPI-15",
+        "time": "2018/12/31 12:00:00.00",
+        "placeCode": "SLFA",
+        "value": "560"
+      },
+      {
+        "code": "KPI-15",
+        "time": "2018/12/31 13:00:00.00",
+        "placeCode": "SLFA",
+        "value": "610"
+      },
+      {
+        "code": "KPI-15",
+        "time": "2018/12/31 14:00:00.00",
+        "placeCode": "SLFA",
+        "value": "510"
+      },
+      {
+        "code": "KPI-15",
+        "time": "2018/12/31 15:00:00.00",
+        "placeCode": "SLFA",
+        "value": "510"
+      },
+      {
+        "code": "KPI-15",
+        "time": "2018/12/31 16:00:00.00",
+        "placeCode": "SLFA",
+        "value": "570"
+      },
+      {
+        "code": "KPI-15",
+        "time": "2018/12/31 17:00:00.00",
+        "placeCode": "SLFA",
+        "value": "580"
+      },
+      {
+        "code": "KPI-15",
+        "time": "2018/12/31 18:00:00.00",
+        "placeCode": "SLFA",
+        "value": "570"
+      },
+      {
+        "code": "KPI-15",
+        "time": "2018/12/31 19:00:00.00",
+        "placeCode": "SLFA",
+        "value": "380"
+      },
+      {
+        "code": "KPI-15",
+        "time": "2018/12/31 20:00:00.00",
+        "placeCode": "SLFA",
+        "value": "540"
+      },
+      {
+        "code": "KPI-15",
+        "time": "2018/12/31 21:00:00.00",
+        "placeCode": "SLFA",
+        "value": "540"
+      },
+      {
+        "code": "KPI-15",
+        "time": "2018/12/31 22:00:00.00",
+        "placeCode": "SLFA",
+        "value": "585"
+      },
+      {
+        "code": "KPI-15",
+        "time": "2018/12/31 23:00:00.00",
+        "placeCode": "SLFA",
+        "value": "480"
+      },
+      {
+        "code": "KPI-15",
+        "time": "2018/12/31 24:00:00.00",
+        "placeCode": "SLFA",
+        "value": "480"
+      },
+      {
+        "code": "KPI-15",
+        "time": "2019/01/01 01:00:00.00",
+        "placeCode": "SLFA",
+        "value": "560"
+      },
+      {
+        "code": "KPI-15",
+        "time": "2019/01/01 02:00:00.00",
+        "placeCode": "SLFA",
+        "value": "380"
+      },
+      {
+        "code": "KPI-15",
+        "time": "2019/01/01 03:00:00.00",
+        "placeCode": "SLFA",
+        "value": "380"
+      },
+      {
+        "code": "KPI-15",
+        "time": "2019/01/01 04:00:00.00",
+        "placeCode": "SLFA",
+        "value": "470"
+      },
+      {
+        "code": "KPI-15",
+        "time": "2019/01/01 05:00:00.00",
+        "placeCode": "SLFA",
+        "value": "380"
+      },
+      {
+        "code": "KPI-15",
+        "time": "2019/01/01 06:00:00.00",
+        "placeCode": "SLFA",
+        "value": "380"
+      },
+      {
+        "code": "KPI-15",
+        "time": "2019/01/01 07:00:00.00",
+        "placeCode": "SLFA",
+        "value": "570"
+      },
+      {
+        "code": "KPI-16",
+        "time": "2019/01/01 07:00:00.00",
+        "placeCode": "S01-L01-MPI-M1",
+        "value": "1"
+      },
+      {
+        "code": "KPI-16",
+        "time": "2019/01/01 07:00:00.00",
+        "placeCode": "S01-L01-PRINT-M1",
+        "value": "0"
+      },
+      {
+        "code": "KPI-16",
+        "time": "2019/01/01 07:00:00.00",
+        "placeCode": "S01-L01-SPI-M1",
+        "value": "1"
+      },
+      {
+        "code": "KPI-16",
+        "time": "2019/01/01 07:00:00.00",
+        "placeCode": "S01-L01-NPM-M1",
+        "value": "0"
+      },
+      {
+        "code": "KPI-16",
+        "time": "2019/01/01 07:00:00.00",
+        "placeCode": "S01-L01-NPM-M2",
+        "value": "1"
+      },
+      {
+        "code": "KPI-16",
+        "time": "2019/01/01 07:00:00.00",
+        "placeCode": "S01-L01-ICT-M1",
+        "value": "1"
+      },
+      {
+        "code": "KPI-16",
+        "time": "2019/01/01 07:00:00.00",
+        "placeCode": "S01-L02-MPI-M1",
+        "value": "1"
+      },
+      {
+        "code": "KPI-16",
+        "time": "2019/01/01 07:00:00.00",
+        "placeCode": "S01-L02-PRINTER-M1",
+        "value": "0"
+      },
+      {
+        "code": "KPI-16",
+        "time": "2019/01/01 07:00:00.00",
+        "placeCode": "S01-L02-SPI-M1",
+        "value": "1"
+      },
+      {
+        "code": "KPI-16",
+        "time": "2019/01/01 07:00:00.00",
+        "placeCode": "S01-L02-NPM-M1",
+        "value": "0"
+      },
+      {
+        "code": "KPI-16",
+        "time": "2019/01/01 07:00:00.00",
+        "placeCode": "S01-L02-NPM-M2",
+        "value": "1"
+      },
+      {
+        "code": "KPI-16",
+        "time": "2019/01/01 07:00:00.00",
+        "placeCode": "S01-L02-ICT-M1",
+        "value": "1"
+      },
+      {
+        "code": "KPI-17",
+        "time": "2018/12/31 08:00:00.00",
+        "placeCode": "S01-L01",
+        "value": "81"
+      },
+      {
+        "code": "KPI-17",
+        "time": "2018/12/31 09:00:00.00",
+        "placeCode": "S01-L01",
+        "value": "96"
+      },
+      {
+        "code": "KPI-17",
+        "time": "2018/12/31 10:00:00.00",
+        "placeCode": "S01-L01",
+        "value": "81"
+      },
+      {
+        "code": "KPI-17",
+        "time": "2018/12/31 11:00:00.00",
+        "placeCode": "S01-L01",
+        "value": "77"
+      },
+      {
+        "code": "KPI-17",
+        "time": "2018/12/31 12:00:00.00",
+        "placeCode": "S01-L01",
+        "value": "82"
+      },
+      {
+        "code": "KPI-17",
+        "time": "2018/12/31 13:00:00.00",
+        "placeCode": "S01-L01",
+        "value": "89"
+      },
+      {
+        "code": "KPI-17",
+        "time": "2018/12/31 14:00:00.00",
+        "placeCode": "S01-L01",
+        "value": "75"
+      },
+      {
+        "code": "KPI-17",
+        "time": "2018/12/31 15:00:00.00",
+        "placeCode": "S01-L01",
+        "value": "51"
+      },
+      {
+        "code": "KPI-17",
+        "time": "2018/12/31 16:00:00.00",
+        "placeCode": "S01-L01",
+        "value": "82"
+      },
+      {
+        "code": "KPI-17",
+        "time": "2018/12/31 17:00:00.00",
+        "placeCode": "S01-L01",
+        "value": "68"
+      },
+      {
+        "code": "KPI-17",
+        "time": "2018/12/31 18:00:00.00",
+        "placeCode": "S01-L01",
+        "value": "89"
+      },
+      {
+        "code": "KPI-17",
+        "time": "2018/12/31 19:00:00.00",
+        "placeCode": "S01-L01",
+        "value": "59"
+      },
+      {
+        "code": "KPI-17",
+        "time": "2018/12/31 20:00:00.00",
+        "placeCode": "S01-L01",
+        "value": "79"
+      },
+      {
+        "code": "KPI-17",
+        "time": "2018/12/31 21:00:00.00",
+        "placeCode": "S01-L01",
+        "value": "69"
+      },
+      {
+        "code": "KPI-17",
+        "time": "2018/12/31 22:00:00.00",
+        "placeCode": "S01-L01",
+        "value": "90"
+      },
+      {
+        "code": "KPI-17",
+        "time": "2018/12/31 23:00:00.00",
+        "placeCode": "S01-L01",
+        "value": "71"
+      },
+      {
+        "code": "KPI-17",
+        "time": "2018/12/31 24:00:00.00",
+        "placeCode": "S01-L01",
+        "value": "48"
+      },
+      {
+        "code": "KPI-17",
+        "time": "2019/01/01 01:00:00.00",
+        "placeCode": "S01-L01",
+        "value": "79"
+      },
+      {
+        "code": "KPI-17",
+        "time": "2019/01/01 02:00:00.00",
+        "placeCode": "S01-L01",
+        "value": "58"
+      },
+      {
+        "code": "KPI-17",
+        "time": "2019/01/01 03:00:00.00",
+        "placeCode": "S01-L01",
+        "value": "58"
+      },
+      {
+        "code": "KPI-17",
+        "time": "2019/01/01 04:00:00.00",
+        "placeCode": "S01-L01",
+        "value": "69"
+      },
+      {
+        "code": "KPI-17",
+        "time": "2019/01/01 05:00:00.00",
+        "placeCode": "S01-L01",
+        "value": "57"
+      },
+      {
+        "code": "KPI-17",
+        "time": "2019/01/01 06:00:00.00",
+        "placeCode": "S01-L01",
+        "value": "57"
+      },
+      {
+        "code": "KPI-17",
+        "time": "2019/01/01 07:00:00.00",
+        "placeCode": "S01-L01",
+        "value": "82"
+      },
+      {
+        "code": "KPI-17",
+        "time": "2018/12/31 08:00:00.00",
+        "placeCode": "S01-L02",
+        "value": "81"
+      },
+      {
+        "code": "KPI-17",
+        "time": "2018/12/31 09:00:00.00",
+        "placeCode": "S01-L02",
+        "value": "96"
+      },
+      {
+        "code": "KPI-17",
+        "time": "2018/12/31 10:00:00.00",
+        "placeCode": "S01-L02",
+        "value": "81"
+      },
+      {
+        "code": "KPI-17",
+        "time": "2018/12/31 11:00:00.00",
+        "placeCode": "S01-L02",
+        "value": "77"
+      },
+      {
+        "code": "KPI-17",
+        "time": "2018/12/31 12:00:00.00",
+        "placeCode": "S01-L02",
+        "value": "82"
+      },
+      {
+        "code": "KPI-17",
+        "time": "2018/12/31 13:00:00.00",
+        "placeCode": "S01-L02",
+        "value": "89"
+      },
+      {
+        "code": "KPI-17",
+        "time": "2018/12/31 14:00:00.00",
+        "placeCode": "S01-L02",
+        "value": "75"
+      },
+      {
+        "code": "KPI-17",
+        "time": "2018/12/31 15:00:00.00",
+        "placeCode": "S01-L02",
+        "value": "51"
+      },
+      {
+        "code": "KPI-17",
+        "time": "2018/12/31 16:00:00.00",
+        "placeCode": "S01-L02",
+        "value": "82"
+      },
+      {
+        "code": "KPI-17",
+        "time": "2018/12/31 17:00:00.00",
+        "placeCode": "S01-L02",
+        "value": "68"
+      },
+      {
+        "code": "KPI-17",
+        "time": "2018/12/31 18:00:00.00",
+        "placeCode": "S01-L02",
+        "value": "89"
+      },
+      {
+        "code": "KPI-17",
+        "time": "2018/12/31 19:00:00.00",
+        "placeCode": "S01-L02",
+        "value": "59"
+      },
+      {
+        "code": "KPI-17",
+        "time": "2018/12/31 20:00:00.00",
+        "placeCode": "S01-L02",
+        "value": "79"
+      },
+      {
+        "code": "KPI-17",
+        "time": "2018/12/31 21:00:00.00",
+        "placeCode": "S01-L02",
+        "value": "69"
+      },
+      {
+        "code": "KPI-17",
+        "time": "2018/12/31 22:00:00.00",
+        "placeCode": "S01-L02",
+        "value": "90"
+      },
+      {
+        "code": "KPI-17",
+        "time": "2018/12/31 23:00:00.00",
+        "placeCode": "S01-L02",
+        "value": "71"
+      },
+      {
+        "code": "KPI-17",
+        "time": "2018/12/31 24:00:00.00",
+        "placeCode": "S01-L02",
+        "value": "48"
+      },
+      {
+        "code": "KPI-17",
+        "time": "2019/01/01 01:00:00.00",
+        "placeCode": "S01-L02",
+        "value": "79"
+      },
+      {
+        "code": "KPI-17",
+        "time": "2019/01/01 02:00:00.00",
+        "placeCode": "S01-L02",
+        "value": "58"
+      },
+      {
+        "code": "KPI-17",
+        "time": "2019/01/01 03:00:00.00",
+        "placeCode": "S01-L02",
+        "value": "58"
+      },
+      {
+        "code": "KPI-17",
+        "time": "2019/01/01 04:00:00.00",
+        "placeCode": "S01-L02",
+        "value": "69"
+      },
+      {
+        "code": "KPI-17",
+        "time": "2019/01/01 05:00:00.00",
+        "placeCode": "S01-L02",
+        "value": "57"
+      },
+      {
+        "code": "KPI-17",
+        "time": "2019/01/01 06:00:00.00",
+        "placeCode": "S01-L02",
+        "value": "57"
+      },
+      {
+        "code": "KPI-17",
+        "time": "2019/01/01 07:00:00.00",
+        "placeCode": "S01-L02",
+        "value": "52"
+      },
+      {
+        "code": "KPI-17",
+        "time": "2018/12/31 08:00:00.00",
+        "placeCode": "S01-L03",
+        "value": "81"
+      },
+      {
+        "code": "KPI-17",
+        "time": "2018/12/31 09:00:00.00",
+        "placeCode": "S01-L03",
+        "value": "96"
+      },
+      {
+        "code": "KPI-17",
+        "time": "2018/12/31 10:00:00.00",
+        "placeCode": "S01-L03",
+        "value": "81"
+      },
+      {
+        "code": "KPI-17",
+        "time": "2018/12/31 11:00:00.00",
+        "placeCode": "S01-L03",
+        "value": "77"
+      },
+      {
+        "code": "KPI-17",
+        "time": "2018/12/31 12:00:00.00",
+        "placeCode": "S01-L03",
+        "value": "82"
+      },
+      {
+        "code": "KPI-17",
+        "time": "2018/12/31 13:00:00.00",
+        "placeCode": "S01-L03",
+        "value": "89"
+      },
+      {
+        "code": "KPI-17",
+        "time": "2018/12/31 14:00:00.00",
+        "placeCode": "S01-L03",
+        "value": "75"
+      },
+      {
+        "code": "KPI-17",
+        "time": "2018/12/31 15:00:00.00",
+        "placeCode": "S01-L03",
+        "value": "51"
+      },
+      {
+        "code": "KPI-17",
+        "time": "2018/12/31 16:00:00.00",
+        "placeCode": "S01-L03",
+        "value": "82"
+      },
+      {
+        "code": "KPI-17",
+        "time": "2018/12/31 17:00:00.00",
+        "placeCode": "S01-L03",
+        "value": "68"
+      },
+      {
+        "code": "KPI-17",
+        "time": "2018/12/31 18:00:00.00",
+        "placeCode": "S01-L03",
+        "value": "89"
+      },
+      {
+        "code": "KPI-17",
+        "time": "2018/12/31 19:00:00.00",
+        "placeCode": "S01-L03",
+        "value": "59"
+      },
+      {
+        "code": "KPI-17",
+        "time": "2018/12/31 20:00:00.00",
+        "placeCode": "S01-L03",
+        "value": "79"
+      },
+      {
+        "code": "KPI-17",
+        "time": "2018/12/31 21:00:00.00",
+        "placeCode": "S01-L03",
+        "value": "69"
+      },
+      {
+        "code": "KPI-17",
+        "time": "2018/12/31 22:00:00.00",
+        "placeCode": "S01-L03",
+        "value": "90"
+      },
+      {
+        "code": "KPI-17",
+        "time": "2018/12/31 23:00:00.00",
+        "placeCode": "S01-L03",
+        "value": "71"
+      },
+      {
+        "code": "KPI-17",
+        "time": "2018/12/31 24:00:00.00",
+        "placeCode": "S01-L03",
+        "value": "48"
+      },
+      {
+        "code": "KPI-17",
+        "time": "2019/01/01 01:00:00.00",
+        "placeCode": "S01-L03",
+        "value": "79"
+      },
+      {
+        "code": "KPI-17",
+        "time": "2019/01/01 02:00:00.00",
+        "placeCode": "S01-L03",
+        "value": "58"
+      },
+      {
+        "code": "KPI-17",
+        "time": "2019/01/01 03:00:00.00",
+        "placeCode": "S01-L03",
+        "value": "58"
+      },
+      {
+        "code": "KPI-17",
+        "time": "2019/01/01 04:00:00.00",
+        "placeCode": "S01-L03",
+        "value": "69"
+      },
+      {
+        "code": "KPI-17",
+        "time": "2019/01/01 05:00:00.00",
+        "placeCode": "S01-L03",
+        "value": "57"
+      },
+      {
+        "code": "KPI-17",
+        "time": "2019/01/01 06:00:00.00",
+        "placeCode": "S01-L03",
+        "value": "57"
+      },
+      {
+        "code": "KPI-17",
+        "time": "2019/01/01 07:00:00.00",
+        "placeCode": "S01-L03",
+        "value": "90"
+      },
+      {
+        "code": "KPI-17",
+        "time": "2018/12/31 08:00:00.00",
+        "placeCode": "S01-L04",
+        "value": "81"
+      },
+      {
+        "code": "KPI-17",
+        "time": "2018/12/31 09:00:00.00",
+        "placeCode": "S01-L04",
+        "value": "96"
+      },
+      {
+        "code": "KPI-17",
+        "time": "2018/12/31 10:00:00.00",
+        "placeCode": "S01-L04",
+        "value": "81"
+      },
+      {
+        "code": "KPI-17",
+        "time": "2018/12/31 11:00:00.00",
+        "placeCode": "S01-L04",
+        "value": "77"
+      },
+      {
+        "code": "KPI-17",
+        "time": "2018/12/31 12:00:00.00",
+        "placeCode": "S01-L04",
+        "value": "82"
+      },
+      {
+        "code": "KPI-17",
+        "time": "2018/12/31 13:00:00.00",
+        "placeCode": "S01-L04",
+        "value": "89"
+      },
+      {
+        "code": "KPI-17",
+        "time": "2018/12/31 14:00:00.00",
+        "placeCode": "S01-L04",
+        "value": "75"
+      },
+      {
+        "code": "KPI-17",
+        "time": "2018/12/31 15:00:00.00",
+        "placeCode": "S01-L04",
+        "value": "51"
+      },
+      {
+        "code": "KPI-17",
+        "time": "2018/12/31 16:00:00.00",
+        "placeCode": "S01-L04",
+        "value": "82"
+      },
+      {
+        "code": "KPI-17",
+        "time": "2018/12/31 17:00:00.00",
+        "placeCode": "S01-L04",
+        "value": "68"
+      },
+      {
+        "code": "KPI-17",
+        "time": "2018/12/31 18:00:00.00",
+        "placeCode": "S01-L04",
+        "value": "89"
+      },
+      {
+        "code": "KPI-17",
+        "time": "2018/12/31 19:00:00.00",
+        "placeCode": "S01-L04",
+        "value": "59"
+      },
+      {
+        "code": "KPI-17",
+        "time": "2018/12/31 20:00:00.00",
+        "placeCode": "S01-L04",
+        "value": "79"
+      },
+      {
+        "code": "KPI-17",
+        "time": "2018/12/31 21:00:00.00",
+        "placeCode": "S01-L04",
+        "value": "69"
+      },
+      {
+        "code": "KPI-17",
+        "time": "2018/12/31 22:00:00.00",
+        "placeCode": "S01-L04",
+        "value": "90"
+      },
+      {
+        "code": "KPI-17",
+        "time": "2018/12/31 23:00:00.00",
+        "placeCode": "S01-L04",
+        "value": "71"
+      },
+      {
+        "code": "KPI-17",
+        "time": "2018/12/31 24:00:00.00",
+        "placeCode": "S01-L04",
+        "value": "48"
+      },
+      {
+        "code": "KPI-17",
+        "time": "2019/01/01 01:00:00.00",
+        "placeCode": "S01-L04",
+        "value": "79"
+      },
+      {
+        "code": "KPI-17",
+        "time": "2019/01/01 02:00:00.00",
+        "placeCode": "S01-L04",
+        "value": "58"
+      },
+      {
+        "code": "KPI-17",
+        "time": "2019/01/01 03:00:00.00",
+        "placeCode": "S01-L04",
+        "value": "58"
+      },
+      {
+        "code": "KPI-17",
+        "time": "2019/01/01 04:00:00.00",
+        "placeCode": "S01-L04",
+        "value": "69"
+      },
+      {
+        "code": "KPI-17",
+        "time": "2019/01/01 05:00:00.00",
+        "placeCode": "S01-L04",
+        "value": "57"
+      },
+      {
+        "code": "KPI-17",
+        "time": "2019/01/01 06:00:00.00",
+        "placeCode": "S01-L04",
+        "value": "57"
+      },
+      {
+        "code": "KPI-17",
+        "time": "2019/01/01 07:00:00.00",
+        "placeCode": "S01-L04",
+        "value": "84"
+      },
+      {
+        "code": "KPI-17",
+        "time": "2018/12/31 08:00:00.00",
+        "placeCode": "S01-L05",
+        "value": "81"
+      },
+      {
+        "code": "KPI-17",
+        "time": "2018/12/31 09:00:00.00",
+        "placeCode": "S01-L05",
+        "value": "96"
+      },
+      {
+        "code": "KPI-17",
+        "time": "2018/12/31 10:00:00.00",
+        "placeCode": "S01-L05",
+        "value": "81"
+      },
+      {
+        "code": "KPI-17",
+        "time": "2018/12/31 11:00:00.00",
+        "placeCode": "S01-L05",
+        "value": "77"
+      },
+      {
+        "code": "KPI-17",
+        "time": "2018/12/31 12:00:00.00",
+        "placeCode": "S01-L05",
+        "value": "82"
+      },
+      {
+        "code": "KPI-17",
+        "time": "2018/12/31 13:00:00.00",
+        "placeCode": "S01-L05",
+        "value": "89"
+      },
+      {
+        "code": "KPI-17",
+        "time": "2018/12/31 14:00:00.00",
+        "placeCode": "S01-L05",
+        "value": "75"
+      },
+      {
+        "code": "KPI-17",
+        "time": "2018/12/31 15:00:00.00",
+        "placeCode": "S01-L05",
+        "value": "51"
+      },
+      {
+        "code": "KPI-17",
+        "time": "2018/12/31 16:00:00.00",
+        "placeCode": "S01-L05",
+        "value": "82"
+      },
+      {
+        "code": "KPI-17",
+        "time": "2018/12/31 17:00:00.00",
+        "placeCode": "S01-L05",
+        "value": "68"
+      },
+      {
+        "code": "KPI-17",
+        "time": "2018/12/31 18:00:00.00",
+        "placeCode": "S01-L05",
+        "value": "89"
+      },
+      {
+        "code": "KPI-17",
+        "time": "2018/12/31 19:00:00.00",
+        "placeCode": "S01-L05",
+        "value": "59"
+      },
+      {
+        "code": "KPI-17",
+        "time": "2018/12/31 20:00:00.00",
+        "placeCode": "S01-L05",
+        "value": "79"
+      },
+      {
+        "code": "KPI-17",
+        "time": "2018/12/31 21:00:00.00",
+        "placeCode": "S01-L05",
+        "value": "69"
+      },
+      {
+        "code": "KPI-17",
+        "time": "2018/12/31 22:00:00.00",
+        "placeCode": "S01-L05",
+        "value": "90"
+      },
+      {
+        "code": "KPI-17",
+        "time": "2018/12/31 23:00:00.00",
+        "placeCode": "S01-L05",
+        "value": "71"
+      },
+      {
+        "code": "KPI-17",
+        "time": "2018/12/31 24:00:00.00",
+        "placeCode": "S01-L05",
+        "value": "48"
+      },
+      {
+        "code": "KPI-17",
+        "time": "2019/01/01 01:00:00.00",
+        "placeCode": "S01-L05",
+        "value": "79"
+      },
+      {
+        "code": "KPI-17",
+        "time": "2019/01/01 02:00:00.00",
+        "placeCode": "S01-L05",
+        "value": "58"
+      },
+      {
+        "code": "KPI-17",
+        "time": "2019/01/01 03:00:00.00",
+        "placeCode": "S01-L05",
+        "value": "58"
+      },
+      {
+        "code": "KPI-17",
+        "time": "2019/01/01 04:00:00.00",
+        "placeCode": "S01-L05",
+        "value": "69"
+      },
+      {
+        "code": "KPI-17",
+        "time": "2019/01/01 05:00:00.00",
+        "placeCode": "S01-L05",
+        "value": "57"
+      },
+      {
+        "code": "KPI-17",
+        "time": "2019/01/01 06:00:00.00",
+        "placeCode": "S01-L05",
+        "value": "57"
+      },
+      {
+        "code": "KPI-17",
+        "time": "2019/01/01 07:00:00.00",
+        "placeCode": "S01-L05",
+        "value": "66"
+      },
+      {
+        "code": "KPI-17",
+        "time": "2018/12/31 08:00:00.00",
+        "placeCode": "S01-L06",
+        "value": "81"
+      },
+      {
+        "code": "KPI-17",
+        "time": "2018/12/31 09:00:00.00",
+        "placeCode": "S01-L06",
+        "value": "96"
+      },
+      {
+        "code": "KPI-17",
+        "time": "2018/12/31 10:00:00.00",
+        "placeCode": "S01-L06",
+        "value": "81"
+      },
+      {
+        "code": "KPI-17",
+        "time": "2018/12/31 11:00:00.00",
+        "placeCode": "S01-L06",
+        "value": "77"
+      },
+      {
+        "code": "KPI-17",
+        "time": "2018/12/31 12:00:00.00",
+        "placeCode": "S01-L06",
+        "value": "82"
+      },
+      {
+        "code": "KPI-17",
+        "time": "2018/12/31 13:00:00.00",
+        "placeCode": "S01-L06",
+        "value": "89"
+      },
+      {
+        "code": "KPI-17",
+        "time": "2018/12/31 14:00:00.00",
+        "placeCode": "S01-L06",
+        "value": "75"
+      },
+      {
+        "code": "KPI-17",
+        "time": "2018/12/31 15:00:00.00",
+        "placeCode": "S01-L06",
+        "value": "51"
+      },
+      {
+        "code": "KPI-17",
+        "time": "2018/12/31 16:00:00.00",
+        "placeCode": "S01-L06",
+        "value": "82"
+      },
+      {
+        "code": "KPI-17",
+        "time": "2018/12/31 17:00:00.00",
+        "placeCode": "S01-L06",
+        "value": "68"
+      },
+      {
+        "code": "KPI-17",
+        "time": "2018/12/31 18:00:00.00",
+        "placeCode": "S01-L06",
+        "value": "89"
+      },
+      {
+        "code": "KPI-17",
+        "time": "2018/12/31 19:00:00.00",
+        "placeCode": "S01-L06",
+        "value": "59"
+      },
+      {
+        "code": "KPI-17",
+        "time": "2018/12/31 20:00:00.00",
+        "placeCode": "S01-L06",
+        "value": "79"
+      },
+      {
+        "code": "KPI-17",
+        "time": "2018/12/31 21:00:00.00",
+        "placeCode": "S01-L06",
+        "value": "69"
+      },
+      {
+        "code": "KPI-17",
+        "time": "2018/12/31 22:00:00.00",
+        "placeCode": "S01-L06",
+        "value": "90"
+      },
+      {
+        "code": "KPI-17",
+        "time": "2018/12/31 23:00:00.00",
+        "placeCode": "S01-L06",
+        "value": "71"
+      },
+      {
+        "code": "KPI-17",
+        "time": "2018/12/31 24:00:00.00",
+        "placeCode": "S01-L06",
+        "value": "48"
+      },
+      {
+        "code": "KPI-17",
+        "time": "2019/01/01 01:00:00.00",
+        "placeCode": "S01-L06",
+        "value": "79"
+      },
+      {
+        "code": "KPI-17",
+        "time": "2019/01/01 02:00:00.00",
+        "placeCode": "S01-L06",
+        "value": "58"
+      },
+      {
+        "code": "KPI-17",
+        "time": "2019/01/01 03:00:00.00",
+        "placeCode": "S01-L06",
+        "value": "58"
+      },
+      {
+        "code": "KPI-17",
+        "time": "2019/01/01 04:00:00.00",
+        "placeCode": "S01-L06",
+        "value": "69"
+      },
+      {
+        "code": "KPI-17",
+        "time": "2019/01/01 05:00:00.00",
+        "placeCode": "S01-L06",
+        "value": "57"
+      },
+      {
+        "code": "KPI-17",
+        "time": "2019/01/01 06:00:00.00",
+        "placeCode": "S01-L06",
+        "value": "57"
+      },
+      {
+        "code": "KPI-17",
+        "time": "2019/01/01 07:00:00.00",
+        "placeCode": "S01-L06",
+        "value": "78"
+      },
+      {
+        "code": "KPI-17",
+        "time": "2018/12/31 08:00:00.00",
+        "placeCode": "S01-L07",
+        "value": "81"
+      },
+      {
+        "code": "KPI-17",
+        "time": "2018/12/31 09:00:00.00",
+        "placeCode": "S01-L07",
+        "value": "96"
+      },
+      {
+        "code": "KPI-17",
+        "time": "2018/12/31 10:00:00.00",
+        "placeCode": "S01-L07",
+        "value": "81"
+      },
+      {
+        "code": "KPI-17",
+        "time": "2018/12/31 11:00:00.00",
+        "placeCode": "S01-L07",
+        "value": "77"
+      },
+      {
+        "code": "KPI-17",
+        "time": "2018/12/31 12:00:00.00",
+        "placeCode": "S01-L07",
+        "value": "82"
+      },
+      {
+        "code": "KPI-17",
+        "time": "2018/12/31 13:00:00.00",
+        "placeCode": "S01-L07",
+        "value": "89"
+      },
+      {
+        "code": "KPI-17",
+        "time": "2018/12/31 14:00:00.00",
+        "placeCode": "S01-L07",
+        "value": "75"
+      },
+      {
+        "code": "KPI-17",
+        "time": "2018/12/31 15:00:00.00",
+        "placeCode": "S01-L07",
+        "value": "51"
+      },
+      {
+        "code": "KPI-17",
+        "time": "2018/12/31 16:00:00.00",
+        "placeCode": "S01-L07",
+        "value": "82"
+      },
+      {
+        "code": "KPI-17",
+        "time": "2018/12/31 17:00:00.00",
+        "placeCode": "S01-L07",
+        "value": "68"
+      },
+      {
+        "code": "KPI-17",
+        "time": "2018/12/31 18:00:00.00",
+        "placeCode": "S01-L07",
+        "value": "89"
+      },
+      {
+        "code": "KPI-17",
+        "time": "2018/12/31 19:00:00.00",
+        "placeCode": "S01-L07",
+        "value": "59"
+      },
+      {
+        "code": "KPI-17",
+        "time": "2018/12/31 20:00:00.00",
+        "placeCode": "S01-L07",
+        "value": "79"
+      },
+      {
+        "code": "KPI-17",
+        "time": "2018/12/31 21:00:00.00",
+        "placeCode": "S01-L07",
+        "value": "69"
+      },
+      {
+        "code": "KPI-17",
+        "time": "2018/12/31 22:00:00.00",
+        "placeCode": "S01-L07",
+        "value": "90"
+      },
+      {
+        "code": "KPI-17",
+        "time": "2018/12/31 23:00:00.00",
+        "placeCode": "S01-L07",
+        "value": "71"
+      },
+      {
+        "code": "KPI-17",
+        "time": "2018/12/31 24:00:00.00",
+        "placeCode": "S01-L07",
+        "value": "48"
+      },
+      {
+        "code": "KPI-17",
+        "time": "2019/01/01 01:00:00.00",
+        "placeCode": "S01-L07",
+        "value": "79"
+      },
+      {
+        "code": "KPI-17",
+        "time": "2019/01/01 02:00:00.00",
+        "placeCode": "S01-L07",
+        "value": "58"
+      },
+      {
+        "code": "KPI-17",
+        "time": "2019/01/01 03:00:00.00",
+        "placeCode": "S01-L07",
+        "value": "58"
+      },
+      {
+        "code": "KPI-17",
+        "time": "2019/01/01 04:00:00.00",
+        "placeCode": "S01-L07",
+        "value": "69"
+      },
+      {
+        "code": "KPI-17",
+        "time": "2019/01/01 05:00:00.00",
+        "placeCode": "S01-L07",
+        "value": "57"
+      },
+      {
+        "code": "KPI-17",
+        "time": "2019/01/01 06:00:00.00",
+        "placeCode": "S01-L07",
+        "value": "57"
+      },
+      {
+        "code": "KPI-17",
+        "time": "2019/01/01 07:00:00.00",
+        "placeCode": "S01-L07",
+        "value": "84"
+      },
+      {
+        "code": "KPI-17",
+        "time": "2018/12/31 08:00:00.00",
+        "placeCode": "S01-L08",
+        "value": "81"
+      },
+      {
+        "code": "KPI-17",
+        "time": "2018/12/31 09:00:00.00",
+        "placeCode": "S01-L08",
+        "value": "96"
+      },
+      {
+        "code": "KPI-17",
+        "time": "2018/12/31 10:00:00.00",
+        "placeCode": "S01-L08",
+        "value": "81"
+      },
+      {
+        "code": "KPI-17",
+        "time": "2018/12/31 11:00:00.00",
+        "placeCode": "S01-L08",
+        "value": "77"
+      },
+      {
+        "code": "KPI-17",
+        "time": "2018/12/31 12:00:00.00",
+        "placeCode": "S01-L08",
+        "value": "82"
+      },
+      {
+        "code": "KPI-17",
+        "time": "2018/12/31 13:00:00.00",
+        "placeCode": "S01-L08",
+        "value": "89"
+      },
+      {
+        "code": "KPI-17",
+        "time": "2018/12/31 14:00:00.00",
+        "placeCode": "S01-L08",
+        "value": "75"
+      },
+      {
+        "code": "KPI-17",
+        "time": "2018/12/31 15:00:00.00",
+        "placeCode": "S01-L08",
+        "value": "51"
+      },
+      {
+        "code": "KPI-17",
+        "time": "2018/12/31 16:00:00.00",
+        "placeCode": "S01-L08",
+        "value": "82"
+      },
+      {
+        "code": "KPI-17",
+        "time": "2018/12/31 17:00:00.00",
+        "placeCode": "S01-L08",
+        "value": "68"
+      },
+      {
+        "code": "KPI-17",
+        "time": "2018/12/31 18:00:00.00",
+        "placeCode": "S01-L08",
+        "value": "89"
+      },
+      {
+        "code": "KPI-17",
+        "time": "2018/12/31 19:00:00.00",
+        "placeCode": "S01-L08",
+        "value": "59"
+      },
+      {
+        "code": "KPI-17",
+        "time": "2018/12/31 20:00:00.00",
+        "placeCode": "S01-L08",
+        "value": "79"
+      },
+      {
+        "code": "KPI-17",
+        "time": "2018/12/31 21:00:00.00",
+        "placeCode": "S01-L08",
+        "value": "69"
+      },
+      {
+        "code": "KPI-17",
+        "time": "2018/12/31 22:00:00.00",
+        "placeCode": "S01-L08",
+        "value": "90"
+      },
+      {
+        "code": "KPI-17",
+        "time": "2018/12/31 23:00:00.00",
+        "placeCode": "S01-L08",
+        "value": "71"
+      },
+      {
+        "code": "KPI-17",
+        "time": "2018/12/31 24:00:00.00",
+        "placeCode": "S01-L08",
+        "value": "48"
+      },
+      {
+        "code": "KPI-17",
+        "time": "2019/01/01 01:00:00.00",
+        "placeCode": "S01-L08",
+        "value": "79"
+      },
+      {
+        "code": "KPI-17",
+        "time": "2019/01/01 02:00:00.00",
+        "placeCode": "S01-L08",
+        "value": "58"
+      },
+      {
+        "code": "KPI-17",
+        "time": "2019/01/01 03:00:00.00",
+        "placeCode": "S01-L08",
+        "value": "58"
+      },
+      {
+        "code": "KPI-17",
+        "time": "2019/01/01 04:00:00.00",
+        "placeCode": "S01-L08",
+        "value": "69"
+      },
+      {
+        "code": "KPI-17",
+        "time": "2019/01/01 05:00:00.00",
+        "placeCode": "S01-L08",
+        "value": "57"
+      },
+      {
+        "code": "KPI-17",
+        "time": "2019/01/01 06:00:00.00",
+        "placeCode": "S01-L08",
+        "value": "57"
+      },
+      {
+        "code": "KPI-17",
+        "time": "2019/01/01 07:00:00.00",
+        "placeCode": "S01-L08",
+        "value": "52"
+      },
+      {
+        "code": "KPI-17",
+        "time": "2018/12/31 08:00:00.00",
+        "placeCode": "S01-L09",
+        "value": "81"
+      },
+      {
+        "code": "KPI-17",
+        "time": "2018/12/31 09:00:00.00",
+        "placeCode": "S01-L09",
+        "value": "96"
+      },
+      {
+        "code": "KPI-17",
+        "time": "2018/12/31 10:00:00.00",
+        "placeCode": "S01-L09",
+        "value": "81"
+      },
+      {
+        "code": "KPI-17",
+        "time": "2018/12/31 11:00:00.00",
+        "placeCode": "S01-L09",
+        "value": "77"
+      },
+      {
+        "code": "KPI-17",
+        "time": "2018/12/31 12:00:00.00",
+        "placeCode": "S01-L09",
+        "value": "82"
+      },
+      {
+        "code": "KPI-17",
+        "time": "2018/12/31 13:00:00.00",
+        "placeCode": "S01-L09",
+        "value": "89"
+      },
+      {
+        "code": "KPI-17",
+        "time": "2018/12/31 14:00:00.00",
+        "placeCode": "S01-L09",
+        "value": "75"
+      },
+      {
+        "code": "KPI-17",
+        "time": "2018/12/31 15:00:00.00",
+        "placeCode": "S01-L09",
+        "value": "51"
+      },
+      {
+        "code": "KPI-17",
+        "time": "2018/12/31 16:00:00.00",
+        "placeCode": "S01-L09",
+        "value": "82"
+      },
+      {
+        "code": "KPI-17",
+        "time": "2018/12/31 17:00:00.00",
+        "placeCode": "S01-L09",
+        "value": "68"
+      },
+      {
+        "code": "KPI-17",
+        "time": "2018/12/31 18:00:00.00",
+        "placeCode": "S01-L09",
+        "value": "89"
+      },
+      {
+        "code": "KPI-17",
+        "time": "2018/12/31 19:00:00.00",
+        "placeCode": "S01-L09",
+        "value": "59"
+      },
+      {
+        "code": "KPI-17",
+        "time": "2018/12/31 20:00:00.00",
+        "placeCode": "S01-L09",
+        "value": "79"
+      },
+      {
+        "code": "KPI-17",
+        "time": "2018/12/31 21:00:00.00",
+        "placeCode": "S01-L09",
+        "value": "69"
+      },
+      {
+        "code": "KPI-17",
+        "time": "2018/12/31 22:00:00.00",
+        "placeCode": "S01-L09",
+        "value": "90"
+      },
+      {
+        "code": "KPI-17",
+        "time": "2018/12/31 23:00:00.00",
+        "placeCode": "S01-L09",
+        "value": "71"
+      },
+      {
+        "code": "KPI-17",
+        "time": "2018/12/31 24:00:00.00",
+        "placeCode": "S01-L09",
+        "value": "48"
+      },
+      {
+        "code": "KPI-17",
+        "time": "2019/01/01 01:00:00.00",
+        "placeCode": "S01-L09",
+        "value": "79"
+      },
+      {
+        "code": "KPI-17",
+        "time": "2019/01/01 02:00:00.00",
+        "placeCode": "S01-L09",
+        "value": "58"
+      },
+      {
+        "code": "KPI-17",
+        "time": "2019/01/01 03:00:00.00",
+        "placeCode": "S01-L09",
+        "value": "58"
+      },
+      {
+        "code": "KPI-17",
+        "time": "2019/01/01 04:00:00.00",
+        "placeCode": "S01-L09",
+        "value": "69"
+      },
+      {
+        "code": "KPI-17",
+        "time": "2019/01/01 05:00:00.00",
+        "placeCode": "S01-L09",
+        "value": "57"
+      },
+      {
+        "code": "KPI-17",
+        "time": "2019/01/01 06:00:00.00",
+        "placeCode": "S01-L09",
+        "value": "57"
+      },
+      {
+        "code": "KPI-17",
+        "time": "2019/01/01 07:00:00.00",
+        "placeCode": "S01-L09",
+        "value": "78"
+      },
+      {
+        "code": "KPI-17",
+        "time": "2018/12/31 08:00:00.00",
+        "placeCode": "S01-L10",
+        "value": "81"
+      },
+      {
+        "code": "KPI-17",
+        "time": "2018/12/31 09:00:00.00",
+        "placeCode": "S01-L10",
+        "value": "96"
+      },
+      {
+        "code": "KPI-17",
+        "time": "2018/12/31 10:00:00.00",
+        "placeCode": "S01-L10",
+        "value": "81"
+      },
+      {
+        "code": "KPI-17",
+        "time": "2018/12/31 11:00:00.00",
+        "placeCode": "S01-L10",
+        "value": "77"
+      },
+      {
+        "code": "KPI-17",
+        "time": "2018/12/31 12:00:00.00",
+        "placeCode": "S01-L10",
+        "value": "82"
+      },
+      {
+        "code": "KPI-17",
+        "time": "2018/12/31 13:00:00.00",
+        "placeCode": "S01-L10",
+        "value": "89"
+      },
+      {
+        "code": "KPI-17",
+        "time": "2018/12/31 14:00:00.00",
+        "placeCode": "S01-L10",
+        "value": "75"
+      },
+      {
+        "code": "KPI-17",
+        "time": "2018/12/31 15:00:00.00",
+        "placeCode": "S01-L10",
+        "value": "51"
+      },
+      {
+        "code": "KPI-17",
+        "time": "2018/12/31 16:00:00.00",
+        "placeCode": "S01-L10",
+        "value": "82"
+      },
+      {
+        "code": "KPI-17",
+        "time": "2018/12/31 17:00:00.00",
+        "placeCode": "S01-L10",
+        "value": "68"
+      },
+      {
+        "code": "KPI-17",
+        "time": "2018/12/31 18:00:00.00",
+        "placeCode": "S01-L10",
+        "value": "89"
+      },
+      {
+        "code": "KPI-17",
+        "time": "2018/12/31 19:00:00.00",
+        "placeCode": "S01-L10",
+        "value": "59"
+      },
+      {
+        "code": "KPI-17",
+        "time": "2018/12/31 20:00:00.00",
+        "placeCode": "S01-L10",
+        "value": "79"
+      },
+      {
+        "code": "KPI-17",
+        "time": "2018/12/31 21:00:00.00",
+        "placeCode": "S01-L10",
+        "value": "69"
+      },
+      {
+        "code": "KPI-17",
+        "time": "2018/12/31 22:00:00.00",
+        "placeCode": "S01-L10",
+        "value": "90"
+      },
+      {
+        "code": "KPI-17",
+        "time": "2018/12/31 23:00:00.00",
+        "placeCode": "S01-L10",
+        "value": "71"
+      },
+      {
+        "code": "KPI-17",
+        "time": "2018/12/31 24:00:00.00",
+        "placeCode": "S01-L10",
+        "value": "48"
+      },
+      {
+        "code": "KPI-17",
+        "time": "2019/01/01 01:00:00.00",
+        "placeCode": "S01-L10",
+        "value": "79"
+      },
+      {
+        "code": "KPI-17",
+        "time": "2019/01/01 02:00:00.00",
+        "placeCode": "S01-L10",
+        "value": "58"
+      },
+      {
+        "code": "KPI-17",
+        "time": "2019/01/01 03:00:00.00",
+        "placeCode": "S01-L10",
+        "value": "58"
+      },
+      {
+        "code": "KPI-17",
+        "time": "2019/01/01 04:00:00.00",
+        "placeCode": "S01-L10",
+        "value": "69"
+      },
+      {
+        "code": "KPI-17",
+        "time": "2019/01/01 05:00:00.00",
+        "placeCode": "S01-L10",
+        "value": "57"
+      },
+      {
+        "code": "KPI-17",
+        "time": "2019/01/01 06:00:00.00",
+        "placeCode": "S01-L10",
+        "value": "57"
+      },
+      {
+        "code": "KPI-17",
+        "time": "2019/01/01 07:00:00.00",
+        "placeCode": "S01-L10",
+        "value": "78"
+      },
+      {
+        "code": "KPI-17",
+        "time": "2018/12/31 08:00:00.00",
+        "placeCode": "S01-L11",
+        "value": "81"
+      },
+      {
+        "code": "KPI-17",
+        "time": "2018/12/31 09:00:00.00",
+        "placeCode": "S01-L11",
+        "value": "96"
+      },
+      {
+        "code": "KPI-17",
+        "time": "2018/12/31 10:00:00.00",
+        "placeCode": "S01-L11",
+        "value": "81"
+      },
+      {
+        "code": "KPI-17",
+        "time": "2018/12/31 11:00:00.00",
+        "placeCode": "S01-L11",
+        "value": "77"
+      },
+      {
+        "code": "KPI-17",
+        "time": "2018/12/31 12:00:00.00",
+        "placeCode": "S01-L11",
+        "value": "82"
+      },
+      {
+        "code": "KPI-17",
+        "time": "2018/12/31 13:00:00.00",
+        "placeCode": "S01-L11",
+        "value": "89"
+      },
+      {
+        "code": "KPI-17",
+        "time": "2018/12/31 14:00:00.00",
+        "placeCode": "S01-L11",
+        "value": "75"
+      },
+      {
+        "code": "KPI-17",
+        "time": "2018/12/31 15:00:00.00",
+        "placeCode": "S01-L11",
+        "value": "51"
+      },
+      {
+        "code": "KPI-17",
+        "time": "2018/12/31 16:00:00.00",
+        "placeCode": "S01-L11",
+        "value": "82"
+      },
+      {
+        "code": "KPI-17",
+        "time": "2018/12/31 17:00:00.00",
+        "placeCode": "S01-L11",
+        "value": "68"
+      },
+      {
+        "code": "KPI-17",
+        "time": "2018/12/31 18:00:00.00",
+        "placeCode": "S01-L11",
+        "value": "89"
+      },
+      {
+        "code": "KPI-17",
+        "time": "2018/12/31 19:00:00.00",
+        "placeCode": "S01-L11",
+        "value": "59"
+      },
+      {
+        "code": "KPI-17",
+        "time": "2018/12/31 20:00:00.00",
+        "placeCode": "S01-L11",
+        "value": "79"
+      },
+      {
+        "code": "KPI-17",
+        "time": "2018/12/31 21:00:00.00",
+        "placeCode": "S01-L11",
+        "value": "69"
+      },
+      {
+        "code": "KPI-17",
+        "time": "2018/12/31 22:00:00.00",
+        "placeCode": "S01-L11",
+        "value": "90"
+      },
+      {
+        "code": "KPI-17",
+        "time": "2018/12/31 23:00:00.00",
+        "placeCode": "S01-L11",
+        "value": "71"
+      },
+      {
+        "code": "KPI-17",
+        "time": "2018/12/31 24:00:00.00",
+        "placeCode": "S01-L11",
+        "value": "48"
+      },
+      {
+        "code": "KPI-17",
+        "time": "2019/01/01 01:00:00.00",
+        "placeCode": "S01-L11",
+        "value": "79"
+      },
+      {
+        "code": "KPI-17",
+        "time": "2019/01/01 02:00:00.00",
+        "placeCode": "S01-L11",
+        "value": "58"
+      },
+      {
+        "code": "KPI-17",
+        "time": "2019/01/01 03:00:00.00",
+        "placeCode": "S01-L11",
+        "value": "58"
+      },
+      {
+        "code": "KPI-17",
+        "time": "2019/01/01 04:00:00.00",
+        "placeCode": "S01-L11",
+        "value": "69"
+      },
+      {
+        "code": "KPI-17",
+        "time": "2019/01/01 05:00:00.00",
+        "placeCode": "S01-L11",
+        "value": "57"
+      },
+      {
+        "code": "KPI-17",
+        "time": "2019/01/01 06:00:00.00",
+        "placeCode": "S01-L11",
+        "value": "57"
+      },
+      {
+        "code": "KPI-17",
+        "time": "2019/01/01 07:00:00.00",
+        "placeCode": "S01-L11",
+        "value": "96"
+      },
+      {
+        "code": "KPI-17",
+        "time": "2018/12/31 08:00:00.00",
+        "placeCode": "S01-L12",
+        "value": "81"
+      },
+      {
+        "code": "KPI-17",
+        "time": "2018/12/31 09:00:00.00",
+        "placeCode": "S01-L12",
+        "value": "96"
+      },
+      {
+        "code": "KPI-17",
+        "time": "2018/12/31 10:00:00.00",
+        "placeCode": "S01-L12",
+        "value": "81"
+      },
+      {
+        "code": "KPI-17",
+        "time": "2018/12/31 11:00:00.00",
+        "placeCode": "S01-L12",
+        "value": "77"
+      },
+      {
+        "code": "KPI-17",
+        "time": "2018/12/31 12:00:00.00",
+        "placeCode": "S01-L12",
+        "value": "82"
+      },
+      {
+        "code": "KPI-17",
+        "time": "2018/12/31 13:00:00.00",
+        "placeCode": "S01-L12",
+        "value": "89"
+      },
+      {
+        "code": "KPI-17",
+        "time": "2018/12/31 14:00:00.00",
+        "placeCode": "S01-L12",
+        "value": "75"
+      },
+      {
+        "code": "KPI-17",
+        "time": "2018/12/31 15:00:00.00",
+        "placeCode": "S01-L12",
+        "value": "51"
+      },
+      {
+        "code": "KPI-17",
+        "time": "2018/12/31 16:00:00.00",
+        "placeCode": "S01-L12",
+        "value": "82"
+      },
+      {
+        "code": "KPI-17",
+        "time": "2018/12/31 17:00:00.00",
+        "placeCode": "S01-L12",
+        "value": "68"
+      },
+      {
+        "code": "KPI-17",
+        "time": "2018/12/31 18:00:00.00",
+        "placeCode": "S01-L12",
+        "value": "89"
+      },
+      {
+        "code": "KPI-17",
+        "time": "2018/12/31 19:00:00.00",
+        "placeCode": "S01-L12",
+        "value": "59"
+      },
+      {
+        "code": "KPI-17",
+        "time": "2018/12/31 20:00:00.00",
+        "placeCode": "S01-L12",
+        "value": "79"
+      },
+      {
+        "code": "KPI-17",
+        "time": "2018/12/31 21:00:00.00",
+        "placeCode": "S01-L12",
+        "value": "69"
+      },
+      {
+        "code": "KPI-17",
+        "time": "2018/12/31 22:00:00.00",
+        "placeCode": "S01-L12",
+        "value": "90"
+      },
+      {
+        "code": "KPI-17",
+        "time": "2018/12/31 23:00:00.00",
+        "placeCode": "S01-L12",
+        "value": "71"
+      },
+      {
+        "code": "KPI-17",
+        "time": "2018/12/31 24:00:00.00",
+        "placeCode": "S01-L12",
+        "value": "48"
+      },
+      {
+        "code": "KPI-17",
+        "time": "2019/01/01 01:00:00.00",
+        "placeCode": "S01-L12",
+        "value": "79"
+      },
+      {
+        "code": "KPI-17",
+        "time": "2019/01/01 02:00:00.00",
+        "placeCode": "S01-L12",
+        "value": "58"
+      },
+      {
+        "code": "KPI-17",
+        "time": "2019/01/01 03:00:00.00",
+        "placeCode": "S01-L12",
+        "value": "58"
+      },
+      {
+        "code": "KPI-17",
+        "time": "2019/01/01 04:00:00.00",
+        "placeCode": "S01-L12",
+        "value": "69"
+      },
+      {
+        "code": "KPI-17",
+        "time": "2019/01/01 05:00:00.00",
+        "placeCode": "S01-L12",
+        "value": "57"
+      },
+      {
+        "code": "KPI-17",
+        "time": "2019/01/01 06:00:00.00",
+        "placeCode": "S01-L12",
+        "value": "57"
+      },
+      {
+        "code": "KPI-17",
+        "time": "2019/01/01 07:00:00.00",
+        "placeCode": "S01-L12",
+        "value": "39"
+      },
+      {
+        "code": "KPI-18",
+        "time": "2018/12/31 08:00:00.00",
+        "placeCode": "S01-L01",
+        "value": "81"
+      },
+      {
+        "code": "KPI-18",
+        "time": "2018/12/31 09:00:00.00",
+        "placeCode": "S01-L01",
+        "value": "96"
+      },
+      {
+        "code": "KPI-18",
+        "time": "2018/12/31 10:00:00.00",
+        "placeCode": "S01-L01",
+        "value": "81"
+      },
+      {
+        "code": "KPI-18",
+        "time": "2018/12/31 11:00:00.00",
+        "placeCode": "S01-L01",
+        "value": "77"
+      },
+      {
+        "code": "KPI-18",
+        "time": "2018/12/31 12:00:00.00",
+        "placeCode": "S01-L01",
+        "value": "82"
+      },
+      {
+        "code": "KPI-18",
+        "time": "2018/12/31 13:00:00.00",
+        "placeCode": "S01-L01",
+        "value": "89"
+      },
+      {
+        "code": "KPI-18",
+        "time": "2018/12/31 14:00:00.00",
+        "placeCode": "S01-L01",
+        "value": "75"
+      },
+      {
+        "code": "KPI-18",
+        "time": "2018/12/31 15:00:00.00",
+        "placeCode": "S01-L01",
+        "value": "51"
+      },
+      {
+        "code": "KPI-18",
+        "time": "2018/12/31 16:00:00.00",
+        "placeCode": "S01-L01",
+        "value": "82"
+      },
+      {
+        "code": "KPI-18",
+        "time": "2018/12/31 17:00:00.00",
+        "placeCode": "S01-L01",
+        "value": "68"
+      },
+      {
+        "code": "KPI-18",
+        "time": "2018/12/31 18:00:00.00",
+        "placeCode": "S01-L01",
+        "value": "89"
+      },
+      {
+        "code": "KPI-18",
+        "time": "2018/12/31 19:00:00.00",
+        "placeCode": "S01-L01",
+        "value": "59"
+      },
+      {
+        "code": "KPI-18",
+        "time": "2018/12/31 20:00:00.00",
+        "placeCode": "S01-L01",
+        "value": "79"
+      },
+      {
+        "code": "KPI-18",
+        "time": "2018/12/31 21:00:00.00",
+        "placeCode": "S01-L01",
+        "value": "69"
+      },
+      {
+        "code": "KPI-18",
+        "time": "2018/12/31 22:00:00.00",
+        "placeCode": "S01-L01",
+        "value": "90"
+      },
+      {
+        "code": "KPI-18",
+        "time": "2018/12/31 23:00:00.00",
+        "placeCode": "S01-L01",
+        "value": "71"
+      },
+      {
+        "code": "KPI-18",
+        "time": "2018/12/31 24:00:00.00",
+        "placeCode": "S01-L01",
+        "value": "48"
+      },
+      {
+        "code": "KPI-18",
+        "time": "2019/01/01 01:00:00.00",
+        "placeCode": "S01-L01",
+        "value": "79"
+      },
+      {
+        "code": "KPI-18",
+        "time": "2019/01/01 02:00:00.00",
+        "placeCode": "S01-L01",
+        "value": "58"
+      },
+      {
+        "code": "KPI-18",
+        "time": "2019/01/01 03:00:00.00",
+        "placeCode": "S01-L01",
+        "value": "58"
+      },
+      {
+        "code": "KPI-18",
+        "time": "2019/01/01 04:00:00.00",
+        "placeCode": "S01-L01",
+        "value": "69"
+      },
+      {
+        "code": "KPI-18",
+        "time": "2019/01/01 05:00:00.00",
+        "placeCode": "S01-L01",
+        "value": "57"
+      },
+      {
+        "code": "KPI-18",
+        "time": "2019/01/01 06:00:00.00",
+        "placeCode": "S01-L01",
+        "value": "57"
+      },
+      {
+        "code": "KPI-18",
+        "time": "2019/01/01 07:00:00.00",
+        "placeCode": "S01-L01",
+        "value": "82"
+      },
+      {
+        "code": "KPI-18",
+        "time": "2018/12/31 08:00:00.00",
+        "placeCode": "S01-L02",
+        "value": "81"
+      },
+      {
+        "code": "KPI-18",
+        "time": "2018/12/31 09:00:00.00",
+        "placeCode": "S01-L02",
+        "value": "96"
+      },
+      {
+        "code": "KPI-18",
+        "time": "2018/12/31 10:00:00.00",
+        "placeCode": "S01-L02",
+        "value": "81"
+      },
+      {
+        "code": "KPI-18",
+        "time": "2018/12/31 11:00:00.00",
+        "placeCode": "S01-L02",
+        "value": "77"
+      },
+      {
+        "code": "KPI-18",
+        "time": "2018/12/31 12:00:00.00",
+        "placeCode": "S01-L02",
+        "value": "82"
+      },
+      {
+        "code": "KPI-18",
+        "time": "2018/12/31 13:00:00.00",
+        "placeCode": "S01-L02",
+        "value": "89"
+      },
+      {
+        "code": "KPI-18",
+        "time": "2018/12/31 14:00:00.00",
+        "placeCode": "S01-L02",
+        "value": "75"
+      },
+      {
+        "code": "KPI-18",
+        "time": "2018/12/31 15:00:00.00",
+        "placeCode": "S01-L02",
+        "value": "51"
+      },
+      {
+        "code": "KPI-18",
+        "time": "2018/12/31 16:00:00.00",
+        "placeCode": "S01-L02",
+        "value": "82"
+      },
+      {
+        "code": "KPI-18",
+        "time": "2018/12/31 17:00:00.00",
+        "placeCode": "S01-L02",
+        "value": "68"
+      },
+      {
+        "code": "KPI-18",
+        "time": "2018/12/31 18:00:00.00",
+        "placeCode": "S01-L02",
+        "value": "89"
+      },
+      {
+        "code": "KPI-18",
+        "time": "2018/12/31 19:00:00.00",
+        "placeCode": "S01-L02",
+        "value": "59"
+      },
+      {
+        "code": "KPI-18",
+        "time": "2018/12/31 20:00:00.00",
+        "placeCode": "S01-L02",
+        "value": "79"
+      },
+      {
+        "code": "KPI-18",
+        "time": "2018/12/31 21:00:00.00",
+        "placeCode": "S01-L02",
+        "value": "69"
+      },
+      {
+        "code": "KPI-18",
+        "time": "2018/12/31 22:00:00.00",
+        "placeCode": "S01-L02",
+        "value": "90"
+      },
+      {
+        "code": "KPI-18",
+        "time": "2018/12/31 23:00:00.00",
+        "placeCode": "S01-L02",
+        "value": "71"
+      },
+      {
+        "code": "KPI-18",
+        "time": "2018/12/31 24:00:00.00",
+        "placeCode": "S01-L02",
+        "value": "48"
+      },
+      {
+        "code": "KPI-18",
+        "time": "2019/01/01 01:00:00.00",
+        "placeCode": "S01-L02",
+        "value": "79"
+      },
+      {
+        "code": "KPI-18",
+        "time": "2019/01/01 02:00:00.00",
+        "placeCode": "S01-L02",
+        "value": "58"
+      },
+      {
+        "code": "KPI-18",
+        "time": "2019/01/01 03:00:00.00",
+        "placeCode": "S01-L02",
+        "value": "58"
+      },
+      {
+        "code": "KPI-18",
+        "time": "2019/01/01 04:00:00.00",
+        "placeCode": "S01-L02",
+        "value": "69"
+      },
+      {
+        "code": "KPI-18",
+        "time": "2019/01/01 05:00:00.00",
+        "placeCode": "S01-L02",
+        "value": "57"
+      },
+      {
+        "code": "KPI-18",
+        "time": "2019/01/01 06:00:00.00",
+        "placeCode": "S01-L02",
+        "value": "57"
+      },
+      {
+        "code": "KPI-18",
+        "time": "2019/01/01 07:00:00.00",
+        "placeCode": "S01-L02",
+        "value": "52"
+      },
+      {
+        "code": "KPI-18",
+        "time": "2018/12/31 08:00:00.00",
+        "placeCode": "S01-L03",
+        "value": "81"
+      },
+      {
+        "code": "KPI-18",
+        "time": "2018/12/31 09:00:00.00",
+        "placeCode": "S01-L03",
+        "value": "96"
+      },
+      {
+        "code": "KPI-18",
+        "time": "2018/12/31 10:00:00.00",
+        "placeCode": "S01-L03",
+        "value": "81"
+      },
+      {
+        "code": "KPI-18",
+        "time": "2018/12/31 11:00:00.00",
+        "placeCode": "S01-L03",
+        "value": "77"
+      },
+      {
+        "code": "KPI-18",
+        "time": "2018/12/31 12:00:00.00",
+        "placeCode": "S01-L03",
+        "value": "82"
+      },
+      {
+        "code": "KPI-18",
+        "time": "2018/12/31 13:00:00.00",
+        "placeCode": "S01-L03",
+        "value": "89"
+      },
+      {
+        "code": "KPI-18",
+        "time": "2018/12/31 14:00:00.00",
+        "placeCode": "S01-L03",
+        "value": "75"
+      },
+      {
+        "code": "KPI-18",
+        "time": "2018/12/31 15:00:00.00",
+        "placeCode": "S01-L03",
+        "value": "51"
+      },
+      {
+        "code": "KPI-18",
+        "time": "2018/12/31 16:00:00.00",
+        "placeCode": "S01-L03",
+        "value": "82"
+      },
+      {
+        "code": "KPI-18",
+        "time": "2018/12/31 17:00:00.00",
+        "placeCode": "S01-L03",
+        "value": "68"
+      },
+      {
+        "code": "KPI-18",
+        "time": "2018/12/31 18:00:00.00",
+        "placeCode": "S01-L03",
+        "value": "89"
+      },
+      {
+        "code": "KPI-18",
+        "time": "2018/12/31 19:00:00.00",
+        "placeCode": "S01-L03",
+        "value": "59"
+      },
+      {
+        "code": "KPI-18",
+        "time": "2018/12/31 20:00:00.00",
+        "placeCode": "S01-L03",
+        "value": "79"
+      },
+      {
+        "code": "KPI-18",
+        "time": "2018/12/31 21:00:00.00",
+        "placeCode": "S01-L03",
+        "value": "69"
+      },
+      {
+        "code": "KPI-18",
+        "time": "2018/12/31 22:00:00.00",
+        "placeCode": "S01-L03",
+        "value": "90"
+      },
+      {
+        "code": "KPI-18",
+        "time": "2018/12/31 23:00:00.00",
+        "placeCode": "S01-L03",
+        "value": "71"
+      },
+      {
+        "code": "KPI-18",
+        "time": "2018/12/31 24:00:00.00",
+        "placeCode": "S01-L03",
+        "value": "48"
+      },
+      {
+        "code": "KPI-18",
+        "time": "2019/01/01 01:00:00.00",
+        "placeCode": "S01-L03",
+        "value": "79"
+      },
+      {
+        "code": "KPI-18",
+        "time": "2019/01/01 02:00:00.00",
+        "placeCode": "S01-L03",
+        "value": "58"
+      },
+      {
+        "code": "KPI-18",
+        "time": "2019/01/01 03:00:00.00",
+        "placeCode": "S01-L03",
+        "value": "58"
+      },
+      {
+        "code": "KPI-18",
+        "time": "2019/01/01 04:00:00.00",
+        "placeCode": "S01-L03",
+        "value": "69"
+      },
+      {
+        "code": "KPI-18",
+        "time": "2019/01/01 05:00:00.00",
+        "placeCode": "S01-L03",
+        "value": "57"
+      },
+      {
+        "code": "KPI-18",
+        "time": "2019/01/01 06:00:00.00",
+        "placeCode": "S01-L03",
+        "value": "57"
+      },
+      {
+        "code": "KPI-18",
+        "time": "2019/01/01 07:00:00.00",
+        "placeCode": "S01-L03",
+        "value": "90"
+      },
+      {
+        "code": "KPI-18",
+        "time": "2018/12/31 08:00:00.00",
+        "placeCode": "S01-L04",
+        "value": "81"
+      },
+      {
+        "code": "KPI-18",
+        "time": "2018/12/31 09:00:00.00",
+        "placeCode": "S01-L04",
+        "value": "96"
+      },
+      {
+        "code": "KPI-18",
+        "time": "2018/12/31 10:00:00.00",
+        "placeCode": "S01-L04",
+        "value": "81"
+      },
+      {
+        "code": "KPI-18",
+        "time": "2018/12/31 11:00:00.00",
+        "placeCode": "S01-L04",
+        "value": "77"
+      },
+      {
+        "code": "KPI-18",
+        "time": "2018/12/31 12:00:00.00",
+        "placeCode": "S01-L04",
+        "value": "82"
+      },
+      {
+        "code": "KPI-18",
+        "time": "2018/12/31 13:00:00.00",
+        "placeCode": "S01-L04",
+        "value": "89"
+      },
+      {
+        "code": "KPI-18",
+        "time": "2018/12/31 14:00:00.00",
+        "placeCode": "S01-L04",
+        "value": "75"
+      },
+      {
+        "code": "KPI-18",
+        "time": "2018/12/31 15:00:00.00",
+        "placeCode": "S01-L04",
+        "value": "51"
+      },
+      {
+        "code": "KPI-18",
+        "time": "2018/12/31 16:00:00.00",
+        "placeCode": "S01-L04",
+        "value": "82"
+      },
+      {
+        "code": "KPI-18",
+        "time": "2018/12/31 17:00:00.00",
+        "placeCode": "S01-L04",
+        "value": "68"
+      },
+      {
+        "code": "KPI-18",
+        "time": "2018/12/31 18:00:00.00",
+        "placeCode": "S01-L04",
+        "value": "89"
+      },
+      {
+        "code": "KPI-18",
+        "time": "2018/12/31 19:00:00.00",
+        "placeCode": "S01-L04",
+        "value": "59"
+      },
+      {
+        "code": "KPI-18",
+        "time": "2018/12/31 20:00:00.00",
+        "placeCode": "S01-L04",
+        "value": "79"
+      },
+      {
+        "code": "KPI-18",
+        "time": "2018/12/31 21:00:00.00",
+        "placeCode": "S01-L04",
+        "value": "69"
+      },
+      {
+        "code": "KPI-18",
+        "time": "2018/12/31 22:00:00.00",
+        "placeCode": "S01-L04",
+        "value": "90"
+      },
+      {
+        "code": "KPI-18",
+        "time": "2018/12/31 23:00:00.00",
+        "placeCode": "S01-L04",
+        "value": "71"
+      },
+      {
+        "code": "KPI-18",
+        "time": "2018/12/31 24:00:00.00",
+        "placeCode": "S01-L04",
+        "value": "48"
+      },
+      {
+        "code": "KPI-18",
+        "time": "2019/01/01 01:00:00.00",
+        "placeCode": "S01-L04",
+        "value": "79"
+      },
+      {
+        "code": "KPI-18",
+        "time": "2019/01/01 02:00:00.00",
+        "placeCode": "S01-L04",
+        "value": "58"
+      },
+      {
+        "code": "KPI-18",
+        "time": "2019/01/01 03:00:00.00",
+        "placeCode": "S01-L04",
+        "value": "58"
+      },
+      {
+        "code": "KPI-18",
+        "time": "2019/01/01 04:00:00.00",
+        "placeCode": "S01-L04",
+        "value": "69"
+      },
+      {
+        "code": "KPI-18",
+        "time": "2019/01/01 05:00:00.00",
+        "placeCode": "S01-L04",
+        "value": "57"
+      },
+      {
+        "code": "KPI-18",
+        "time": "2019/01/01 06:00:00.00",
+        "placeCode": "S01-L04",
+        "value": "57"
+      },
+      {
+        "code": "KPI-18",
+        "time": "2019/01/01 07:00:00.00",
+        "placeCode": "S01-L04",
+        "value": "84"
+      },
+      {
+        "code": "KPI-18",
+        "time": "2018/12/31 08:00:00.00",
+        "placeCode": "S01-L05",
+        "value": "81"
+      },
+      {
+        "code": "KPI-18",
+        "time": "2018/12/31 09:00:00.00",
+        "placeCode": "S01-L05",
+        "value": "96"
+      },
+      {
+        "code": "KPI-18",
+        "time": "2018/12/31 10:00:00.00",
+        "placeCode": "S01-L05",
+        "value": "81"
+      },
+      {
+        "code": "KPI-18",
+        "time": "2018/12/31 11:00:00.00",
+        "placeCode": "S01-L05",
+        "value": "77"
+      },
+      {
+        "code": "KPI-18",
+        "time": "2018/12/31 12:00:00.00",
+        "placeCode": "S01-L05",
+        "value": "82"
+      },
+      {
+        "code": "KPI-18",
+        "time": "2018/12/31 13:00:00.00",
+        "placeCode": "S01-L05",
+        "value": "89"
+      },
+      {
+        "code": "KPI-18",
+        "time": "2018/12/31 14:00:00.00",
+        "placeCode": "S01-L05",
+        "value": "75"
+      },
+      {
+        "code": "KPI-18",
+        "time": "2018/12/31 15:00:00.00",
+        "placeCode": "S01-L05",
+        "value": "51"
+      },
+      {
+        "code": "KPI-18",
+        "time": "2018/12/31 16:00:00.00",
+        "placeCode": "S01-L05",
+        "value": "82"
+      },
+      {
+        "code": "KPI-18",
+        "time": "2018/12/31 17:00:00.00",
+        "placeCode": "S01-L05",
+        "value": "68"
+      },
+      {
+        "code": "KPI-18",
+        "time": "2018/12/31 18:00:00.00",
+        "placeCode": "S01-L05",
+        "value": "89"
+      },
+      {
+        "code": "KPI-18",
+        "time": "2018/12/31 19:00:00.00",
+        "placeCode": "S01-L05",
+        "value": "59"
+      },
+      {
+        "code": "KPI-18",
+        "time": "2018/12/31 20:00:00.00",
+        "placeCode": "S01-L05",
+        "value": "79"
+      },
+      {
+        "code": "KPI-18",
+        "time": "2018/12/31 21:00:00.00",
+        "placeCode": "S01-L05",
+        "value": "69"
+      },
+      {
+        "code": "KPI-18",
+        "time": "2018/12/31 22:00:00.00",
+        "placeCode": "S01-L05",
+        "value": "90"
+      },
+      {
+        "code": "KPI-18",
+        "time": "2018/12/31 23:00:00.00",
+        "placeCode": "S01-L05",
+        "value": "71"
+      },
+      {
+        "code": "KPI-18",
+        "time": "2018/12/31 24:00:00.00",
+        "placeCode": "S01-L05",
+        "value": "48"
+      },
+      {
+        "code": "KPI-18",
+        "time": "2019/01/01 01:00:00.00",
+        "placeCode": "S01-L05",
+        "value": "79"
+      },
+      {
+        "code": "KPI-18",
+        "time": "2019/01/01 02:00:00.00",
+        "placeCode": "S01-L05",
+        "value": "58"
+      },
+      {
+        "code": "KPI-18",
+        "time": "2019/01/01 03:00:00.00",
+        "placeCode": "S01-L05",
+        "value": "58"
+      },
+      {
+        "code": "KPI-18",
+        "time": "2019/01/01 04:00:00.00",
+        "placeCode": "S01-L05",
+        "value": "69"
+      },
+      {
+        "code": "KPI-18",
+        "time": "2019/01/01 05:00:00.00",
+        "placeCode": "S01-L05",
+        "value": "57"
+      },
+      {
+        "code": "KPI-18",
+        "time": "2019/01/01 06:00:00.00",
+        "placeCode": "S01-L05",
+        "value": "57"
+      },
+      {
+        "code": "KPI-18",
+        "time": "2019/01/01 07:00:00.00",
+        "placeCode": "S01-L05",
+        "value": "66"
+      },
+      {
+        "code": "KPI-18",
+        "time": "2018/12/31 08:00:00.00",
+        "placeCode": "S01-L06",
+        "value": "81"
+      },
+      {
+        "code": "KPI-18",
+        "time": "2018/12/31 09:00:00.00",
+        "placeCode": "S01-L06",
+        "value": "96"
+      },
+      {
+        "code": "KPI-18",
+        "time": "2018/12/31 10:00:00.00",
+        "placeCode": "S01-L06",
+        "value": "81"
+      },
+      {
+        "code": "KPI-18",
+        "time": "2018/12/31 11:00:00.00",
+        "placeCode": "S01-L06",
+        "value": "77"
+      },
+      {
+        "code": "KPI-18",
+        "time": "2018/12/31 12:00:00.00",
+        "placeCode": "S01-L06",
+        "value": "82"
+      },
+      {
+        "code": "KPI-18",
+        "time": "2018/12/31 13:00:00.00",
+        "placeCode": "S01-L06",
+        "value": "89"
+      },
+      {
+        "code": "KPI-18",
+        "time": "2018/12/31 14:00:00.00",
+        "placeCode": "S01-L06",
+        "value": "75"
+      },
+      {
+        "code": "KPI-18",
+        "time": "2018/12/31 15:00:00.00",
+        "placeCode": "S01-L06",
+        "value": "51"
+      },
+      {
+        "code": "KPI-18",
+        "time": "2018/12/31 16:00:00.00",
+        "placeCode": "S01-L06",
+        "value": "82"
+      },
+      {
+        "code": "KPI-18",
+        "time": "2018/12/31 17:00:00.00",
+        "placeCode": "S01-L06",
+        "value": "68"
+      },
+      {
+        "code": "KPI-18",
+        "time": "2018/12/31 18:00:00.00",
+        "placeCode": "S01-L06",
+        "value": "89"
+      },
+      {
+        "code": "KPI-18",
+        "time": "2018/12/31 19:00:00.00",
+        "placeCode": "S01-L06",
+        "value": "59"
+      },
+      {
+        "code": "KPI-18",
+        "time": "2018/12/31 20:00:00.00",
+        "placeCode": "S01-L06",
+        "value": "79"
+      },
+      {
+        "code": "KPI-18",
+        "time": "2018/12/31 21:00:00.00",
+        "placeCode": "S01-L06",
+        "value": "69"
+      },
+      {
+        "code": "KPI-18",
+        "time": "2018/12/31 22:00:00.00",
+        "placeCode": "S01-L06",
+        "value": "90"
+      },
+      {
+        "code": "KPI-18",
+        "time": "2018/12/31 23:00:00.00",
+        "placeCode": "S01-L06",
+        "value": "71"
+      },
+      {
+        "code": "KPI-18",
+        "time": "2018/12/31 24:00:00.00",
+        "placeCode": "S01-L06",
+        "value": "48"
+      },
+      {
+        "code": "KPI-18",
+        "time": "2019/01/01 01:00:00.00",
+        "placeCode": "S01-L06",
+        "value": "79"
+      },
+      {
+        "code": "KPI-18",
+        "time": "2019/01/01 02:00:00.00",
+        "placeCode": "S01-L06",
+        "value": "58"
+      },
+      {
+        "code": "KPI-18",
+        "time": "2019/01/01 03:00:00.00",
+        "placeCode": "S01-L06",
+        "value": "58"
+      },
+      {
+        "code": "KPI-18",
+        "time": "2019/01/01 04:00:00.00",
+        "placeCode": "S01-L06",
+        "value": "69"
+      },
+      {
+        "code": "KPI-18",
+        "time": "2019/01/01 05:00:00.00",
+        "placeCode": "S01-L06",
+        "value": "57"
+      },
+      {
+        "code": "KPI-18",
+        "time": "2019/01/01 06:00:00.00",
+        "placeCode": "S01-L06",
+        "value": "57"
+      },
+      {
+        "code": "KPI-18",
+        "time": "2019/01/01 07:00:00.00",
+        "placeCode": "S01-L06",
+        "value": "78"
+      },
+      {
+        "code": "KPI-18",
+        "time": "2018/12/31 08:00:00.00",
+        "placeCode": "S01-L07",
+        "value": "81"
+      },
+      {
+        "code": "KPI-18",
+        "time": "2018/12/31 09:00:00.00",
+        "placeCode": "S01-L07",
+        "value": "96"
+      },
+      {
+        "code": "KPI-18",
+        "time": "2018/12/31 10:00:00.00",
+        "placeCode": "S01-L07",
+        "value": "81"
+      },
+      {
+        "code": "KPI-18",
+        "time": "2018/12/31 11:00:00.00",
+        "placeCode": "S01-L07",
+        "value": "77"
+      },
+      {
+        "code": "KPI-18",
+        "time": "2018/12/31 12:00:00.00",
+        "placeCode": "S01-L07",
+        "value": "82"
+      },
+      {
+        "code": "KPI-18",
+        "time": "2018/12/31 13:00:00.00",
+        "placeCode": "S01-L07",
+        "value": "89"
+      },
+      {
+        "code": "KPI-18",
+        "time": "2018/12/31 14:00:00.00",
+        "placeCode": "S01-L07",
+        "value": "75"
+      },
+      {
+        "code": "KPI-18",
+        "time": "2018/12/31 15:00:00.00",
+        "placeCode": "S01-L07",
+        "value": "51"
+      },
+      {
+        "code": "KPI-18",
+        "time": "2018/12/31 16:00:00.00",
+        "placeCode": "S01-L07",
+        "value": "82"
+      },
+      {
+        "code": "KPI-18",
+        "time": "2018/12/31 17:00:00.00",
+        "placeCode": "S01-L07",
+        "value": "68"
+      },
+      {
+        "code": "KPI-18",
+        "time": "2018/12/31 18:00:00.00",
+        "placeCode": "S01-L07",
+        "value": "89"
+      },
+      {
+        "code": "KPI-18",
+        "time": "2018/12/31 19:00:00.00",
+        "placeCode": "S01-L07",
+        "value": "59"
+      },
+      {
+        "code": "KPI-18",
+        "time": "2018/12/31 20:00:00.00",
+        "placeCode": "S01-L07",
+        "value": "79"
+      },
+      {
+        "code": "KPI-18",
+        "time": "2018/12/31 21:00:00.00",
+        "placeCode": "S01-L07",
+        "value": "69"
+      },
+      {
+        "code": "KPI-18",
+        "time": "2018/12/31 22:00:00.00",
+        "placeCode": "S01-L07",
+        "value": "90"
+      },
+      {
+        "code": "KPI-18",
+        "time": "2018/12/31 23:00:00.00",
+        "placeCode": "S01-L07",
+        "value": "71"
+      },
+      {
+        "code": "KPI-18",
+        "time": "2018/12/31 24:00:00.00",
+        "placeCode": "S01-L07",
+        "value": "48"
+      },
+      {
+        "code": "KPI-18",
+        "time": "2019/01/01 01:00:00.00",
+        "placeCode": "S01-L07",
+        "value": "79"
+      },
+      {
+        "code": "KPI-18",
+        "time": "2019/01/01 02:00:00.00",
+        "placeCode": "S01-L07",
+        "value": "58"
+      },
+      {
+        "code": "KPI-18",
+        "time": "2019/01/01 03:00:00.00",
+        "placeCode": "S01-L07",
+        "value": "58"
+      },
+      {
+        "code": "KPI-18",
+        "time": "2019/01/01 04:00:00.00",
+        "placeCode": "S01-L07",
+        "value": "69"
+      },
+      {
+        "code": "KPI-18",
+        "time": "2019/01/01 05:00:00.00",
+        "placeCode": "S01-L07",
+        "value": "57"
+      },
+      {
+        "code": "KPI-18",
+        "time": "2019/01/01 06:00:00.00",
+        "placeCode": "S01-L07",
+        "value": "57"
+      },
+      {
+        "code": "KPI-18",
+        "time": "2019/01/01 07:00:00.00",
+        "placeCode": "S01-L07",
+        "value": "84"
+      },
+      {
+        "code": "KPI-18",
+        "time": "2018/12/31 08:00:00.00",
+        "placeCode": "S01-L08",
+        "value": "81"
+      },
+      {
+        "code": "KPI-18",
+        "time": "2018/12/31 09:00:00.00",
+        "placeCode": "S01-L08",
+        "value": "96"
+      },
+      {
+        "code": "KPI-18",
+        "time": "2018/12/31 10:00:00.00",
+        "placeCode": "S01-L08",
+        "value": "81"
+      },
+      {
+        "code": "KPI-18",
+        "time": "2018/12/31 11:00:00.00",
+        "placeCode": "S01-L08",
+        "value": "77"
+      },
+      {
+        "code": "KPI-18",
+        "time": "2018/12/31 12:00:00.00",
+        "placeCode": "S01-L08",
+        "value": "82"
+      },
+      {
+        "code": "KPI-18",
+        "time": "2018/12/31 13:00:00.00",
+        "placeCode": "S01-L08",
+        "value": "89"
+      },
+      {
+        "code": "KPI-18",
+        "time": "2018/12/31 14:00:00.00",
+        "placeCode": "S01-L08",
+        "value": "75"
+      },
+      {
+        "code": "KPI-18",
+        "time": "2018/12/31 15:00:00.00",
+        "placeCode": "S01-L08",
+        "value": "51"
+      },
+      {
+        "code": "KPI-18",
+        "time": "2018/12/31 16:00:00.00",
+        "placeCode": "S01-L08",
+        "value": "82"
+      },
+      {
+        "code": "KPI-18",
+        "time": "2018/12/31 17:00:00.00",
+        "placeCode": "S01-L08",
+        "value": "68"
+      },
+      {
+        "code": "KPI-18",
+        "time": "2018/12/31 18:00:00.00",
+        "placeCode": "S01-L08",
+        "value": "89"
+      },
+      {
+        "code": "KPI-18",
+        "time": "2018/12/31 19:00:00.00",
+        "placeCode": "S01-L08",
+        "value": "59"
+      },
+      {
+        "code": "KPI-18",
+        "time": "2018/12/31 20:00:00.00",
+        "placeCode": "S01-L08",
+        "value": "79"
+      },
+      {
+        "code": "KPI-18",
+        "time": "2018/12/31 21:00:00.00",
+        "placeCode": "S01-L08",
+        "value": "69"
+      },
+      {
+        "code": "KPI-18",
+        "time": "2018/12/31 22:00:00.00",
+        "placeCode": "S01-L08",
+        "value": "90"
+      },
+      {
+        "code": "KPI-18",
+        "time": "2018/12/31 23:00:00.00",
+        "placeCode": "S01-L08",
+        "value": "71"
+      },
+      {
+        "code": "KPI-18",
+        "time": "2018/12/31 24:00:00.00",
+        "placeCode": "S01-L08",
+        "value": "48"
+      },
+      {
+        "code": "KPI-18",
+        "time": "2019/01/01 01:00:00.00",
+        "placeCode": "S01-L08",
+        "value": "79"
+      },
+      {
+        "code": "KPI-18",
+        "time": "2019/01/01 02:00:00.00",
+        "placeCode": "S01-L08",
+        "value": "58"
+      },
+      {
+        "code": "KPI-18",
+        "time": "2019/01/01 03:00:00.00",
+        "placeCode": "S01-L08",
+        "value": "58"
+      },
+      {
+        "code": "KPI-18",
+        "time": "2019/01/01 04:00:00.00",
+        "placeCode": "S01-L08",
+        "value": "69"
+      },
+      {
+        "code": "KPI-18",
+        "time": "2019/01/01 05:00:00.00",
+        "placeCode": "S01-L08",
+        "value": "57"
+      },
+      {
+        "code": "KPI-18",
+        "time": "2019/01/01 06:00:00.00",
+        "placeCode": "S01-L08",
+        "value": "57"
+      },
+      {
+        "code": "KPI-18",
+        "time": "2019/01/01 07:00:00.00",
+        "placeCode": "S01-L08",
+        "value": "52"
+      },
+      {
+        "code": "KPI-18",
+        "time": "2018/12/31 08:00:00.00",
+        "placeCode": "S01-L09",
+        "value": "81"
+      },
+      {
+        "code": "KPI-18",
+        "time": "2018/12/31 09:00:00.00",
+        "placeCode": "S01-L09",
+        "value": "96"
+      },
+      {
+        "code": "KPI-18",
+        "time": "2018/12/31 10:00:00.00",
+        "placeCode": "S01-L09",
+        "value": "81"
+      },
+      {
+        "code": "KPI-18",
+        "time": "2018/12/31 11:00:00.00",
+        "placeCode": "S01-L09",
+        "value": "77"
+      },
+      {
+        "code": "KPI-18",
+        "time": "2018/12/31 12:00:00.00",
+        "placeCode": "S01-L09",
+        "value": "82"
+      },
+      {
+        "code": "KPI-18",
+        "time": "2018/12/31 13:00:00.00",
+        "placeCode": "S01-L09",
+        "value": "89"
+      },
+      {
+        "code": "KPI-18",
+        "time": "2018/12/31 14:00:00.00",
+        "placeCode": "S01-L09",
+        "value": "75"
+      },
+      {
+        "code": "KPI-18",
+        "time": "2018/12/31 15:00:00.00",
+        "placeCode": "S01-L09",
+        "value": "51"
+      },
+      {
+        "code": "KPI-18",
+        "time": "2018/12/31 16:00:00.00",
+        "placeCode": "S01-L09",
+        "value": "82"
+      },
+      {
+        "code": "KPI-18",
+        "time": "2018/12/31 17:00:00.00",
+        "placeCode": "S01-L09",
+        "value": "68"
+      },
+      {
+        "code": "KPI-18",
+        "time": "2018/12/31 18:00:00.00",
+        "placeCode": "S01-L09",
+        "value": "89"
+      },
+      {
+        "code": "KPI-18",
+        "time": "2018/12/31 19:00:00.00",
+        "placeCode": "S01-L09",
+        "value": "59"
+      },
+      {
+        "code": "KPI-18",
+        "time": "2018/12/31 20:00:00.00",
+        "placeCode": "S01-L09",
+        "value": "79"
+      },
+      {
+        "code": "KPI-18",
+        "time": "2018/12/31 21:00:00.00",
+        "placeCode": "S01-L09",
+        "value": "69"
+      },
+      {
+        "code": "KPI-18",
+        "time": "2018/12/31 22:00:00.00",
+        "placeCode": "S01-L09",
+        "value": "90"
+      },
+      {
+        "code": "KPI-18",
+        "time": "2018/12/31 23:00:00.00",
+        "placeCode": "S01-L09",
+        "value": "71"
+      },
+      {
+        "code": "KPI-18",
+        "time": "2018/12/31 24:00:00.00",
+        "placeCode": "S01-L09",
+        "value": "48"
+      },
+      {
+        "code": "KPI-18",
+        "time": "2019/01/01 01:00:00.00",
+        "placeCode": "S01-L09",
+        "value": "79"
+      },
+      {
+        "code": "KPI-18",
+        "time": "2019/01/01 02:00:00.00",
+        "placeCode": "S01-L09",
+        "value": "58"
+      },
+      {
+        "code": "KPI-18",
+        "time": "2019/01/01 03:00:00.00",
+        "placeCode": "S01-L09",
+        "value": "58"
+      },
+      {
+        "code": "KPI-18",
+        "time": "2019/01/01 04:00:00.00",
+        "placeCode": "S01-L09",
+        "value": "69"
+      },
+      {
+        "code": "KPI-18",
+        "time": "2019/01/01 05:00:00.00",
+        "placeCode": "S01-L09",
+        "value": "57"
+      },
+      {
+        "code": "KPI-18",
+        "time": "2019/01/01 06:00:00.00",
+        "placeCode": "S01-L09",
+        "value": "57"
+      },
+      {
+        "code": "KPI-18",
+        "time": "2019/01/01 07:00:00.00",
+        "placeCode": "S01-L09",
+        "value": "78"
+      },
+      {
+        "code": "KPI-18",
+        "time": "2018/12/31 08:00:00.00",
+        "placeCode": "S01-L10",
+        "value": "81"
+      },
+      {
+        "code": "KPI-18",
+        "time": "2018/12/31 09:00:00.00",
+        "placeCode": "S01-L10",
+        "value": "96"
+      },
+      {
+        "code": "KPI-18",
+        "time": "2018/12/31 10:00:00.00",
+        "placeCode": "S01-L10",
+        "value": "81"
+      },
+      {
+        "code": "KPI-18",
+        "time": "2018/12/31 11:00:00.00",
+        "placeCode": "S01-L10",
+        "value": "77"
+      },
+      {
+        "code": "KPI-18",
+        "time": "2018/12/31 12:00:00.00",
+        "placeCode": "S01-L10",
+        "value": "82"
+      },
+      {
+        "code": "KPI-18",
+        "time": "2018/12/31 13:00:00.00",
+        "placeCode": "S01-L10",
+        "value": "89"
+      },
+      {
+        "code": "KPI-18",
+        "time": "2018/12/31 14:00:00.00",
+        "placeCode": "S01-L10",
+        "value": "75"
+      },
+      {
+        "code": "KPI-18",
+        "time": "2018/12/31 15:00:00.00",
+        "placeCode": "S01-L10",
+        "value": "51"
+      },
+      {
+        "code": "KPI-18",
+        "time": "2018/12/31 16:00:00.00",
+        "placeCode": "S01-L10",
+        "value": "82"
+      },
+      {
+        "code": "KPI-18",
+        "time": "2018/12/31 17:00:00.00",
+        "placeCode": "S01-L10",
+        "value": "68"
+      },
+      {
+        "code": "KPI-18",
+        "time": "2018/12/31 18:00:00.00",
+        "placeCode": "S01-L10",
+        "value": "89"
+      },
+      {
+        "code": "KPI-18",
+        "time": "2018/12/31 19:00:00.00",
+        "placeCode": "S01-L10",
+        "value": "59"
+      },
+      {
+        "code": "KPI-18",
+        "time": "2018/12/31 20:00:00.00",
+        "placeCode": "S01-L10",
+        "value": "79"
+      },
+      {
+        "code": "KPI-18",
+        "time": "2018/12/31 21:00:00.00",
+        "placeCode": "S01-L10",
+        "value": "69"
+      },
+      {
+        "code": "KPI-18",
+        "time": "2018/12/31 22:00:00.00",
+        "placeCode": "S01-L10",
+        "value": "90"
+      },
+      {
+        "code": "KPI-18",
+        "time": "2018/12/31 23:00:00.00",
+        "placeCode": "S01-L10",
+        "value": "71"
+      },
+      {
+        "code": "KPI-18",
+        "time": "2018/12/31 24:00:00.00",
+        "placeCode": "S01-L10",
+        "value": "48"
+      },
+      {
+        "code": "KPI-18",
+        "time": "2019/01/01 01:00:00.00",
+        "placeCode": "S01-L10",
+        "value": "79"
+      },
+      {
+        "code": "KPI-18",
+        "time": "2019/01/01 02:00:00.00",
+        "placeCode": "S01-L10",
+        "value": "58"
+      },
+      {
+        "code": "KPI-18",
+        "time": "2019/01/01 03:00:00.00",
+        "placeCode": "S01-L10",
+        "value": "58"
+      },
+      {
+        "code": "KPI-18",
+        "time": "2019/01/01 04:00:00.00",
+        "placeCode": "S01-L10",
+        "value": "69"
+      },
+      {
+        "code": "KPI-18",
+        "time": "2019/01/01 05:00:00.00",
+        "placeCode": "S01-L10",
+        "value": "57"
+      },
+      {
+        "code": "KPI-18",
+        "time": "2019/01/01 06:00:00.00",
+        "placeCode": "S01-L10",
+        "value": "57"
+      },
+      {
+        "code": "KPI-18",
+        "time": "2019/01/01 07:00:00.00",
+        "placeCode": "S01-L10",
+        "value": "78"
+      },
+      {
+        "code": "KPI-18",
+        "time": "2018/12/31 08:00:00.00",
+        "placeCode": "S01-L11",
+        "value": "81"
+      },
+      {
+        "code": "KPI-18",
+        "time": "2018/12/31 09:00:00.00",
+        "placeCode": "S01-L11",
+        "value": "96"
+      },
+      {
+        "code": "KPI-18",
+        "time": "2018/12/31 10:00:00.00",
+        "placeCode": "S01-L11",
+        "value": "81"
+      },
+      {
+        "code": "KPI-18",
+        "time": "2018/12/31 11:00:00.00",
+        "placeCode": "S01-L11",
+        "value": "77"
+      },
+      {
+        "code": "KPI-18",
+        "time": "2018/12/31 12:00:00.00",
+        "placeCode": "S01-L11",
+        "value": "82"
+      },
+      {
+        "code": "KPI-18",
+        "time": "2018/12/31 13:00:00.00",
+        "placeCode": "S01-L11",
+        "value": "89"
+      },
+      {
+        "code": "KPI-18",
+        "time": "2018/12/31 14:00:00.00",
+        "placeCode": "S01-L11",
+        "value": "75"
+      },
+      {
+        "code": "KPI-18",
+        "time": "2018/12/31 15:00:00.00",
+        "placeCode": "S01-L11",
+        "value": "51"
+      },
+      {
+        "code": "KPI-18",
+        "time": "2018/12/31 16:00:00.00",
+        "placeCode": "S01-L11",
+        "value": "82"
+      },
+      {
+        "code": "KPI-18",
+        "time": "2018/12/31 17:00:00.00",
+        "placeCode": "S01-L11",
+        "value": "68"
+      },
+      {
+        "code": "KPI-18",
+        "time": "2018/12/31 18:00:00.00",
+        "placeCode": "S01-L11",
+        "value": "89"
+      },
+      {
+        "code": "KPI-18",
+        "time": "2018/12/31 19:00:00.00",
+        "placeCode": "S01-L11",
+        "value": "59"
+      },
+      {
+        "code": "KPI-18",
+        "time": "2018/12/31 20:00:00.00",
+        "placeCode": "S01-L11",
+        "value": "79"
+      },
+      {
+        "code": "KPI-18",
+        "time": "2018/12/31 21:00:00.00",
+        "placeCode": "S01-L11",
+        "value": "69"
+      },
+      {
+        "code": "KPI-18",
+        "time": "2018/12/31 22:00:00.00",
+        "placeCode": "S01-L11",
+        "value": "90"
+      },
+      {
+        "code": "KPI-18",
+        "time": "2018/12/31 23:00:00.00",
+        "placeCode": "S01-L11",
+        "value": "71"
+      },
+      {
+        "code": "KPI-18",
+        "time": "2018/12/31 24:00:00.00",
+        "placeCode": "S01-L11",
+        "value": "48"
+      },
+      {
+        "code": "KPI-18",
+        "time": "2019/01/01 01:00:00.00",
+        "placeCode": "S01-L11",
+        "value": "79"
+      },
+      {
+        "code": "KPI-18",
+        "time": "2019/01/01 02:00:00.00",
+        "placeCode": "S01-L11",
+        "value": "58"
+      },
+      {
+        "code": "KPI-18",
+        "time": "2019/01/01 03:00:00.00",
+        "placeCode": "S01-L11",
+        "value": "58"
+      },
+      {
+        "code": "KPI-18",
+        "time": "2019/01/01 04:00:00.00",
+        "placeCode": "S01-L11",
+        "value": "69"
+      },
+      {
+        "code": "KPI-18",
+        "time": "2019/01/01 05:00:00.00",
+        "placeCode": "S01-L11",
+        "value": "57"
+      },
+      {
+        "code": "KPI-18",
+        "time": "2019/01/01 06:00:00.00",
+        "placeCode": "S01-L11",
+        "value": "57"
+      },
+      {
+        "code": "KPI-18",
+        "time": "2019/01/01 07:00:00.00",
+        "placeCode": "S01-L11",
+        "value": "96"
+      },
+      {
+        "code": "KPI-18",
+        "time": "2018/12/31 08:00:00.00",
+        "placeCode": "S01-L12",
+        "value": "81"
+      },
+      {
+        "code": "KPI-18",
+        "time": "2018/12/31 09:00:00.00",
+        "placeCode": "S01-L12",
+        "value": "96"
+      },
+      {
+        "code": "KPI-18",
+        "time": "2018/12/31 10:00:00.00",
+        "placeCode": "S01-L12",
+        "value": "81"
+      },
+      {
+        "code": "KPI-18",
+        "time": "2018/12/31 11:00:00.00",
+        "placeCode": "S01-L12",
+        "value": "77"
+      },
+      {
+        "code": "KPI-18",
+        "time": "2018/12/31 12:00:00.00",
+        "placeCode": "S01-L12",
+        "value": "82"
+      },
+      {
+        "code": "KPI-18",
+        "time": "2018/12/31 13:00:00.00",
+        "placeCode": "S01-L12",
+        "value": "89"
+      },
+      {
+        "code": "KPI-18",
+        "time": "2018/12/31 14:00:00.00",
+        "placeCode": "S01-L12",
+        "value": "75"
+      },
+      {
+        "code": "KPI-18",
+        "time": "2018/12/31 15:00:00.00",
+        "placeCode": "S01-L12",
+        "value": "51"
+      },
+      {
+        "code": "KPI-18",
+        "time": "2018/12/31 16:00:00.00",
+        "placeCode": "S01-L12",
+        "value": "82"
+      },
+      {
+        "code": "KPI-18",
+        "time": "2018/12/31 17:00:00.00",
+        "placeCode": "S01-L12",
+        "value": "68"
+      },
+      {
+        "code": "KPI-18",
+        "time": "2018/12/31 18:00:00.00",
+        "placeCode": "S01-L12",
+        "value": "89"
+      },
+      {
+        "code": "KPI-18",
+        "time": "2018/12/31 19:00:00.00",
+        "placeCode": "S01-L12",
+        "value": "59"
+      },
+      {
+        "code": "KPI-18",
+        "time": "2018/12/31 20:00:00.00",
+        "placeCode": "S01-L12",
+        "value": "79"
+      },
+      {
+        "code": "KPI-18",
+        "time": "2018/12/31 21:00:00.00",
+        "placeCode": "S01-L12",
+        "value": "69"
+      },
+      {
+        "code": "KPI-18",
+        "time": "2018/12/31 22:00:00.00",
+        "placeCode": "S01-L12",
+        "value": "90"
+      },
+      {
+        "code": "KPI-18",
+        "time": "2018/12/31 23:00:00.00",
+        "placeCode": "S01-L12",
+        "value": "71"
+      },
+      {
+        "code": "KPI-18",
+        "time": "2018/12/31 24:00:00.00",
+        "placeCode": "S01-L12",
+        "value": "48"
+      },
+      {
+        "code": "KPI-18",
+        "time": "2019/01/01 01:00:00.00",
+        "placeCode": "S01-L12",
+        "value": "79"
+      },
+      {
+        "code": "KPI-18",
+        "time": "2019/01/01 02:00:00.00",
+        "placeCode": "S01-L12",
+        "value": "58"
+      },
+      {
+        "code": "KPI-18",
+        "time": "2019/01/01 03:00:00.00",
+        "placeCode": "S01-L12",
+        "value": "58"
+      },
+      {
+        "code": "KPI-18",
+        "time": "2019/01/01 04:00:00.00",
+        "placeCode": "S01-L12",
+        "value": "69"
+      },
+      {
+        "code": "KPI-18",
+        "time": "2019/01/01 05:00:00.00",
+        "placeCode": "S01-L12",
+        "value": "57"
+      },
+      {
+        "code": "KPI-18",
+        "time": "2019/01/01 06:00:00.00",
+        "placeCode": "S01-L12",
+        "value": "57"
+      },
+      {
+        "code": "KPI-18",
+        "time": "2019/01/01 07:00:00.00",
+        "placeCode": "S01-L12",
+        "value": "39"
+      },
+      {
+        "code": "KPI-19",
+        "time": "2018/12/31 08:00:00.00",
+        "placeCode": "S01-L01",
+        "value": "81000"
+      },
+      {
+        "code": "KPI-19",
+        "time": "2018/12/31 09:00:00.00",
+        "placeCode": "S01-L01",
+        "value": "96000"
+      },
+      {
+        "code": "KPI-19",
+        "time": "2018/12/31 10:00:00.00",
+        "placeCode": "S01-L01",
+        "value": "81000"
+      },
+      {
+        "code": "KPI-19",
+        "time": "2018/12/31 11:00:00.00",
+        "placeCode": "S01-L01",
+        "value": "77000"
+      },
+      {
+        "code": "KPI-19",
+        "time": "2018/12/31 12:00:00.00",
+        "placeCode": "S01-L01",
+        "value": "82000"
+      },
+      {
+        "code": "KPI-19",
+        "time": "2018/12/31 13:00:00.00",
+        "placeCode": "S01-L01",
+        "value": "89000"
+      },
+      {
+        "code": "KPI-19",
+        "time": "2018/12/31 14:00:00.00",
+        "placeCode": "S01-L01",
+        "value": "75000"
+      },
+      {
+        "code": "KPI-19",
+        "time": "2018/12/31 15:00:00.00",
+        "placeCode": "S01-L01",
+        "value": "51000"
+      },
+      {
+        "code": "KPI-19",
+        "time": "2018/12/31 16:00:00.00",
+        "placeCode": "S01-L01",
+        "value": "82000"
+      },
+      {
+        "code": "KPI-19",
+        "time": "2018/12/31 17:00:00.00",
+        "placeCode": "S01-L01",
+        "value": "68000"
+      },
+      {
+        "code": "KPI-19",
+        "time": "2018/12/31 18:00:00.00",
+        "placeCode": "S01-L01",
+        "value": "89000"
+      },
+      {
+        "code": "KPI-19",
+        "time": "2018/12/31 19:00:00.00",
+        "placeCode": "S01-L01",
+        "value": "59000"
+      },
+      {
+        "code": "KPI-19",
+        "time": "2018/12/31 20:00:00.00",
+        "placeCode": "S01-L01",
+        "value": "79000"
+      },
+      {
+        "code": "KPI-19",
+        "time": "2018/12/31 21:00:00.00",
+        "placeCode": "S01-L01",
+        "value": "69000"
+      },
+      {
+        "code": "KPI-19",
+        "time": "2018/12/31 22:00:00.00",
+        "placeCode": "S01-L01",
+        "value": "90000"
+      },
+      {
+        "code": "KPI-19",
+        "time": "2018/12/31 23:00:00.00",
+        "placeCode": "S01-L01",
+        "value": "71000"
+      },
+      {
+        "code": "KPI-19",
+        "time": "2018/12/31 24:00:00.00",
+        "placeCode": "S01-L01",
+        "value": "48000"
+      },
+      {
+        "code": "KPI-19",
+        "time": "2019/01/01 01:00:00.00",
+        "placeCode": "S01-L01",
+        "value": "79000"
+      },
+      {
+        "code": "KPI-19",
+        "time": "2019/01/01 02:00:00.00",
+        "placeCode": "S01-L01",
+        "value": "58000"
+      },
+      {
+        "code": "KPI-19",
+        "time": "2019/01/01 03:00:00.00",
+        "placeCode": "S01-L01",
+        "value": "58000"
+      },
+      {
+        "code": "KPI-19",
+        "time": "2019/01/01 04:00:00.00",
+        "placeCode": "S01-L01",
+        "value": "69000"
+      },
+      {
+        "code": "KPI-19",
+        "time": "2019/01/01 05:00:00.00",
+        "placeCode": "S01-L01",
+        "value": "57000"
+      },
+      {
+        "code": "KPI-19",
+        "time": "2019/01/01 06:00:00.00",
+        "placeCode": "S01-L01",
+        "value": "57000"
+      },
+      {
+        "code": "KPI-19",
+        "time": "2019/01/01 07:00:00.00",
+        "placeCode": "S01-L01",
+        "value": "82000"
+      },
+      {
+        "code": "KPI-19",
+        "time": "2018/12/31 08:00:00.00",
+        "placeCode": "S01-L02",
+        "value": "81000"
+      },
+      {
+        "code": "KPI-19",
+        "time": "2018/12/31 09:00:00.00",
+        "placeCode": "S01-L02",
+        "value": "96000"
+      },
+      {
+        "code": "KPI-19",
+        "time": "2018/12/31 10:00:00.00",
+        "placeCode": "S01-L02",
+        "value": "81000"
+      },
+      {
+        "code": "KPI-19",
+        "time": "2018/12/31 11:00:00.00",
+        "placeCode": "S01-L02",
+        "value": "77000"
+      },
+      {
+        "code": "KPI-19",
+        "time": "2018/12/31 12:00:00.00",
+        "placeCode": "S01-L02",
+        "value": "82000"
+      },
+      {
+        "code": "KPI-19",
+        "time": "2018/12/31 13:00:00.00",
+        "placeCode": "S01-L02",
+        "value": "89000"
+      },
+      {
+        "code": "KPI-19",
+        "time": "2018/12/31 14:00:00.00",
+        "placeCode": "S01-L02",
+        "value": "75000"
+      },
+      {
+        "code": "KPI-19",
+        "time": "2018/12/31 15:00:00.00",
+        "placeCode": "S01-L02",
+        "value": "51000"
+      },
+      {
+        "code": "KPI-19",
+        "time": "2018/12/31 16:00:00.00",
+        "placeCode": "S01-L02",
+        "value": "82000"
+      },
+      {
+        "code": "KPI-19",
+        "time": "2018/12/31 17:00:00.00",
+        "placeCode": "S01-L02",
+        "value": "68000"
+      },
+      {
+        "code": "KPI-19",
+        "time": "2018/12/31 18:00:00.00",
+        "placeCode": "S01-L02",
+        "value": "89000"
+      },
+      {
+        "code": "KPI-19",
+        "time": "2018/12/31 19:00:00.00",
+        "placeCode": "S01-L02",
+        "value": "59000"
+      },
+      {
+        "code": "KPI-19",
+        "time": "2018/12/31 20:00:00.00",
+        "placeCode": "S01-L02",
+        "value": "79000"
+      },
+      {
+        "code": "KPI-19",
+        "time": "2018/12/31 21:00:00.00",
+        "placeCode": "S01-L02",
+        "value": "69000"
+      },
+      {
+        "code": "KPI-19",
+        "time": "2018/12/31 22:00:00.00",
+        "placeCode": "S01-L02",
+        "value": "90000"
+      },
+      {
+        "code": "KPI-19",
+        "time": "2018/12/31 23:00:00.00",
+        "placeCode": "S01-L02",
+        "value": "71000"
+      },
+      {
+        "code": "KPI-19",
+        "time": "2018/12/31 24:00:00.00",
+        "placeCode": "S01-L02",
+        "value": "48000"
+      },
+      {
+        "code": "KPI-19",
+        "time": "2019/01/01 01:00:00.00",
+        "placeCode": "S01-L02",
+        "value": "79000"
+      },
+      {
+        "code": "KPI-19",
+        "time": "2019/01/01 02:00:00.00",
+        "placeCode": "S01-L02",
+        "value": "58000"
+      },
+      {
+        "code": "KPI-19",
+        "time": "2019/01/01 03:00:00.00",
+        "placeCode": "S01-L02",
+        "value": "58000"
+      },
+      {
+        "code": "KPI-19",
+        "time": "2019/01/01 04:00:00.00",
+        "placeCode": "S01-L02",
+        "value": "69000"
+      },
+      {
+        "code": "KPI-19",
+        "time": "2019/01/01 05:00:00.00",
+        "placeCode": "S01-L02",
+        "value": "57000"
+      },
+      {
+        "code": "KPI-19",
+        "time": "2019/01/01 06:00:00.00",
+        "placeCode": "S01-L02",
+        "value": "57000"
+      },
+      {
+        "code": "KPI-19",
+        "time": "2019/01/01 07:00:00.00",
+        "placeCode": "S01-L02",
+        "value": "52000"
+      },
+      {
+        "code": "KPI-19",
+        "time": "2018/12/31 08:00:00.00",
+        "placeCode": "S01-L03",
+        "value": "81000"
+      },
+      {
+        "code": "KPI-19",
+        "time": "2018/12/31 09:00:00.00",
+        "placeCode": "S01-L03",
+        "value": "96000"
+      },
+      {
+        "code": "KPI-19",
+        "time": "2018/12/31 10:00:00.00",
+        "placeCode": "S01-L03",
+        "value": "81000"
+      },
+      {
+        "code": "KPI-19",
+        "time": "2018/12/31 11:00:00.00",
+        "placeCode": "S01-L03",
+        "value": "77000"
+      },
+      {
+        "code": "KPI-19",
+        "time": "2018/12/31 12:00:00.00",
+        "placeCode": "S01-L03",
+        "value": "82000"
+      },
+      {
+        "code": "KPI-19",
+        "time": "2018/12/31 13:00:00.00",
+        "placeCode": "S01-L03",
+        "value": "89000"
+      },
+      {
+        "code": "KPI-19",
+        "time": "2018/12/31 14:00:00.00",
+        "placeCode": "S01-L03",
+        "value": "75000"
+      },
+      {
+        "code": "KPI-19",
+        "time": "2018/12/31 15:00:00.00",
+        "placeCode": "S01-L03",
+        "value": "51000"
+      },
+      {
+        "code": "KPI-19",
+        "time": "2018/12/31 16:00:00.00",
+        "placeCode": "S01-L03",
+        "value": "82000"
+      },
+      {
+        "code": "KPI-19",
+        "time": "2018/12/31 17:00:00.00",
+        "placeCode": "S01-L03",
+        "value": "68000"
+      },
+      {
+        "code": "KPI-19",
+        "time": "2018/12/31 18:00:00.00",
+        "placeCode": "S01-L03",
+        "value": "89000"
+      },
+      {
+        "code": "KPI-19",
+        "time": "2018/12/31 19:00:00.00",
+        "placeCode": "S01-L03",
+        "value": "59000"
+      },
+      {
+        "code": "KPI-19",
+        "time": "2018/12/31 20:00:00.00",
+        "placeCode": "S01-L03",
+        "value": "79000"
+      },
+      {
+        "code": "KPI-19",
+        "time": "2018/12/31 21:00:00.00",
+        "placeCode": "S01-L03",
+        "value": "69000"
+      },
+      {
+        "code": "KPI-19",
+        "time": "2018/12/31 22:00:00.00",
+        "placeCode": "S01-L03",
+        "value": "90000"
+      },
+      {
+        "code": "KPI-19",
+        "time": "2018/12/31 23:00:00.00",
+        "placeCode": "S01-L03",
+        "value": "71000"
+      },
+      {
+        "code": "KPI-19",
+        "time": "2018/12/31 24:00:00.00",
+        "placeCode": "S01-L03",
+        "value": "48000"
+      },
+      {
+        "code": "KPI-19",
+        "time": "2019/01/01 01:00:00.00",
+        "placeCode": "S01-L03",
+        "value": "79000"
+      },
+      {
+        "code": "KPI-19",
+        "time": "2019/01/01 02:00:00.00",
+        "placeCode": "S01-L03",
+        "value": "58000"
+      },
+      {
+        "code": "KPI-19",
+        "time": "2019/01/01 03:00:00.00",
+        "placeCode": "S01-L03",
+        "value": "58000"
+      },
+      {
+        "code": "KPI-19",
+        "time": "2019/01/01 04:00:00.00",
+        "placeCode": "S01-L03",
+        "value": "69000"
+      },
+      {
+        "code": "KPI-19",
+        "time": "2019/01/01 05:00:00.00",
+        "placeCode": "S01-L03",
+        "value": "57000"
+      },
+      {
+        "code": "KPI-19",
+        "time": "2019/01/01 06:00:00.00",
+        "placeCode": "S01-L03",
+        "value": "57000"
+      },
+      {
+        "code": "KPI-19",
+        "time": "2019/01/01 07:00:00.00",
+        "placeCode": "S01-L03",
+        "value": "90000"
+      },
+      {
+        "code": "KPI-19",
+        "time": "2018/12/31 08:00:00.00",
+        "placeCode": "S01-L04",
+        "value": "81000"
+      },
+      {
+        "code": "KPI-19",
+        "time": "2018/12/31 09:00:00.00",
+        "placeCode": "S01-L04",
+        "value": "96000"
+      },
+      {
+        "code": "KPI-19",
+        "time": "2018/12/31 10:00:00.00",
+        "placeCode": "S01-L04",
+        "value": "81000"
+      },
+      {
+        "code": "KPI-19",
+        "time": "2018/12/31 11:00:00.00",
+        "placeCode": "S01-L04",
+        "value": "77000"
+      },
+      {
+        "code": "KPI-19",
+        "time": "2018/12/31 12:00:00.00",
+        "placeCode": "S01-L04",
+        "value": "82000"
+      },
+      {
+        "code": "KPI-19",
+        "time": "2018/12/31 13:00:00.00",
+        "placeCode": "S01-L04",
+        "value": "89000"
+      },
+      {
+        "code": "KPI-19",
+        "time": "2018/12/31 14:00:00.00",
+        "placeCode": "S01-L04",
+        "value": "75000"
+      },
+      {
+        "code": "KPI-19",
+        "time": "2018/12/31 15:00:00.00",
+        "placeCode": "S01-L04",
+        "value": "51000"
+      },
+      {
+        "code": "KPI-19",
+        "time": "2018/12/31 16:00:00.00",
+        "placeCode": "S01-L04",
+        "value": "82000"
+      },
+      {
+        "code": "KPI-19",
+        "time": "2018/12/31 17:00:00.00",
+        "placeCode": "S01-L04",
+        "value": "68000"
+      },
+      {
+        "code": "KPI-19",
+        "time": "2018/12/31 18:00:00.00",
+        "placeCode": "S01-L04",
+        "value": "89000"
+      },
+      {
+        "code": "KPI-19",
+        "time": "2018/12/31 19:00:00.00",
+        "placeCode": "S01-L04",
+        "value": "59000"
+      },
+      {
+        "code": "KPI-19",
+        "time": "2018/12/31 20:00:00.00",
+        "placeCode": "S01-L04",
+        "value": "79000"
+      },
+      {
+        "code": "KPI-19",
+        "time": "2018/12/31 21:00:00.00",
+        "placeCode": "S01-L04",
+        "value": "69000"
+      },
+      {
+        "code": "KPI-19",
+        "time": "2018/12/31 22:00:00.00",
+        "placeCode": "S01-L04",
+        "value": "90000"
+      },
+      {
+        "code": "KPI-19",
+        "time": "2018/12/31 23:00:00.00",
+        "placeCode": "S01-L04",
+        "value": "71000"
+      },
+      {
+        "code": "KPI-19",
+        "time": "2018/12/31 24:00:00.00",
+        "placeCode": "S01-L04",
+        "value": "48000"
+      },
+      {
+        "code": "KPI-19",
+        "time": "2019/01/01 01:00:00.00",
+        "placeCode": "S01-L04",
+        "value": "79000"
+      },
+      {
+        "code": "KPI-19",
+        "time": "2019/01/01 02:00:00.00",
+        "placeCode": "S01-L04",
+        "value": "58000"
+      },
+      {
+        "code": "KPI-19",
+        "time": "2019/01/01 03:00:00.00",
+        "placeCode": "S01-L04",
+        "value": "58000"
+      },
+      {
+        "code": "KPI-19",
+        "time": "2019/01/01 04:00:00.00",
+        "placeCode": "S01-L04",
+        "value": "69000"
+      },
+      {
+        "code": "KPI-19",
+        "time": "2019/01/01 05:00:00.00",
+        "placeCode": "S01-L04",
+        "value": "57000"
+      },
+      {
+        "code": "KPI-19",
+        "time": "2019/01/01 06:00:00.00",
+        "placeCode": "S01-L04",
+        "value": "57000"
+      },
+      {
+        "code": "KPI-19",
+        "time": "2019/01/01 07:00:00.00",
+        "placeCode": "S01-L04",
+        "value": "84000"
+      },
+      {
+        "code": "KPI-19",
+        "time": "2018/12/31 08:00:00.00",
+        "placeCode": "S01-L05",
+        "value": "81000"
+      },
+      {
+        "code": "KPI-19",
+        "time": "2018/12/31 09:00:00.00",
+        "placeCode": "S01-L05",
+        "value": "96000"
+      },
+      {
+        "code": "KPI-19",
+        "time": "2018/12/31 10:00:00.00",
+        "placeCode": "S01-L05",
+        "value": "81000"
+      },
+      {
+        "code": "KPI-19",
+        "time": "2018/12/31 11:00:00.00",
+        "placeCode": "S01-L05",
+        "value": "77000"
+      },
+      {
+        "code": "KPI-19",
+        "time": "2018/12/31 12:00:00.00",
+        "placeCode": "S01-L05",
+        "value": "82000"
+      },
+      {
+        "code": "KPI-19",
+        "time": "2018/12/31 13:00:00.00",
+        "placeCode": "S01-L05",
+        "value": "89000"
+      },
+      {
+        "code": "KPI-19",
+        "time": "2018/12/31 14:00:00.00",
+        "placeCode": "S01-L05",
+        "value": "75000"
+      },
+      {
+        "code": "KPI-19",
+        "time": "2018/12/31 15:00:00.00",
+        "placeCode": "S01-L05",
+        "value": "51000"
+      },
+      {
+        "code": "KPI-19",
+        "time": "2018/12/31 16:00:00.00",
+        "placeCode": "S01-L05",
+        "value": "82000"
+      },
+      {
+        "code": "KPI-19",
+        "time": "2018/12/31 17:00:00.00",
+        "placeCode": "S01-L05",
+        "value": "68000"
+      },
+      {
+        "code": "KPI-19",
+        "time": "2018/12/31 18:00:00.00",
+        "placeCode": "S01-L05",
+        "value": "89000"
+      },
+      {
+        "code": "KPI-19",
+        "time": "2018/12/31 19:00:00.00",
+        "placeCode": "S01-L05",
+        "value": "59000"
+      },
+      {
+        "code": "KPI-19",
+        "time": "2018/12/31 20:00:00.00",
+        "placeCode": "S01-L05",
+        "value": "79000"
+      },
+      {
+        "code": "KPI-19",
+        "time": "2018/12/31 21:00:00.00",
+        "placeCode": "S01-L05",
+        "value": "69000"
+      },
+      {
+        "code": "KPI-19",
+        "time": "2018/12/31 22:00:00.00",
+        "placeCode": "S01-L05",
+        "value": "90000"
+      },
+      {
+        "code": "KPI-19",
+        "time": "2018/12/31 23:00:00.00",
+        "placeCode": "S01-L05",
+        "value": "71000"
+      },
+      {
+        "code": "KPI-19",
+        "time": "2018/12/31 24:00:00.00",
+        "placeCode": "S01-L05",
+        "value": "48000"
+      },
+      {
+        "code": "KPI-19",
+        "time": "2019/01/01 01:00:00.00",
+        "placeCode": "S01-L05",
+        "value": "79000"
+      },
+      {
+        "code": "KPI-19",
+        "time": "2019/01/01 02:00:00.00",
+        "placeCode": "S01-L05",
+        "value": "58000"
+      },
+      {
+        "code": "KPI-19",
+        "time": "2019/01/01 03:00:00.00",
+        "placeCode": "S01-L05",
+        "value": "58000"
+      },
+      {
+        "code": "KPI-19",
+        "time": "2019/01/01 04:00:00.00",
+        "placeCode": "S01-L05",
+        "value": "69000"
+      },
+      {
+        "code": "KPI-19",
+        "time": "2019/01/01 05:00:00.00",
+        "placeCode": "S01-L05",
+        "value": "57000"
+      },
+      {
+        "code": "KPI-19",
+        "time": "2019/01/01 06:00:00.00",
+        "placeCode": "S01-L05",
+        "value": "57000"
+      },
+      {
+        "code": "KPI-19",
+        "time": "2019/01/01 07:00:00.00",
+        "placeCode": "S01-L05",
+        "value": "66000"
+      },
+      {
+        "code": "KPI-19",
+        "time": "2018/12/31 08:00:00.00",
+        "placeCode": "S01-L06",
+        "value": "81000"
+      },
+      {
+        "code": "KPI-19",
+        "time": "2018/12/31 09:00:00.00",
+        "placeCode": "S01-L06",
+        "value": "96000"
+      },
+      {
+        "code": "KPI-19",
+        "time": "2018/12/31 10:00:00.00",
+        "placeCode": "S01-L06",
+        "value": "81000"
+      },
+      {
+        "code": "KPI-19",
+        "time": "2018/12/31 11:00:00.00",
+        "placeCode": "S01-L06",
+        "value": "77000"
+      },
+      {
+        "code": "KPI-19",
+        "time": "2018/12/31 12:00:00.00",
+        "placeCode": "S01-L06",
+        "value": "82000"
+      },
+      {
+        "code": "KPI-19",
+        "time": "2018/12/31 13:00:00.00",
+        "placeCode": "S01-L06",
+        "value": "89000"
+      },
+      {
+        "code": "KPI-19",
+        "time": "2018/12/31 14:00:00.00",
+        "placeCode": "S01-L06",
+        "value": "75000"
+      },
+      {
+        "code": "KPI-19",
+        "time": "2018/12/31 15:00:00.00",
+        "placeCode": "S01-L06",
+        "value": "51000"
+      },
+      {
+        "code": "KPI-19",
+        "time": "2018/12/31 16:00:00.00",
+        "placeCode": "S01-L06",
+        "value": "82000"
+      },
+      {
+        "code": "KPI-19",
+        "time": "2018/12/31 17:00:00.00",
+        "placeCode": "S01-L06",
+        "value": "68000"
+      },
+      {
+        "code": "KPI-19",
+        "time": "2018/12/31 18:00:00.00",
+        "placeCode": "S01-L06",
+        "value": "89000"
+      },
+      {
+        "code": "KPI-19",
+        "time": "2018/12/31 19:00:00.00",
+        "placeCode": "S01-L06",
+        "value": "59000"
+      },
+      {
+        "code": "KPI-19",
+        "time": "2018/12/31 20:00:00.00",
+        "placeCode": "S01-L06",
+        "value": "79000"
+      },
+      {
+        "code": "KPI-19",
+        "time": "2018/12/31 21:00:00.00",
+        "placeCode": "S01-L06",
+        "value": "69000"
+      },
+      {
+        "code": "KPI-19",
+        "time": "2018/12/31 22:00:00.00",
+        "placeCode": "S01-L06",
+        "value": "90000"
+      },
+      {
+        "code": "KPI-19",
+        "time": "2018/12/31 23:00:00.00",
+        "placeCode": "S01-L06",
+        "value": "71000"
+      },
+      {
+        "code": "KPI-19",
+        "time": "2018/12/31 24:00:00.00",
+        "placeCode": "S01-L06",
+        "value": "48000"
+      },
+      {
+        "code": "KPI-19",
+        "time": "2019/01/01 01:00:00.00",
+        "placeCode": "S01-L06",
+        "value": "79000"
+      },
+      {
+        "code": "KPI-19",
+        "time": "2019/01/01 02:00:00.00",
+        "placeCode": "S01-L06",
+        "value": "58000"
+      },
+      {
+        "code": "KPI-19",
+        "time": "2019/01/01 03:00:00.00",
+        "placeCode": "S01-L06",
+        "value": "58000"
+      },
+      {
+        "code": "KPI-19",
+        "time": "2019/01/01 04:00:00.00",
+        "placeCode": "S01-L06",
+        "value": "69000"
+      },
+      {
+        "code": "KPI-19",
+        "time": "2019/01/01 05:00:00.00",
+        "placeCode": "S01-L06",
+        "value": "57000"
+      },
+      {
+        "code": "KPI-19",
+        "time": "2019/01/01 06:00:00.00",
+        "placeCode": "S01-L06",
+        "value": "57000"
+      },
+      {
+        "code": "KPI-19",
+        "time": "2019/01/01 07:00:00.00",
+        "placeCode": "S01-L06",
+        "value": "78000"
+      },
+      {
+        "code": "KPI-19",
+        "time": "2018/12/31 08:00:00.00",
+        "placeCode": "S01-L07",
+        "value": "81000"
+      },
+      {
+        "code": "KPI-19",
+        "time": "2018/12/31 09:00:00.00",
+        "placeCode": "S01-L07",
+        "value": "96000"
+      },
+      {
+        "code": "KPI-19",
+        "time": "2018/12/31 10:00:00.00",
+        "placeCode": "S01-L07",
+        "value": "81000"
+      },
+      {
+        "code": "KPI-19",
+        "time": "2018/12/31 11:00:00.00",
+        "placeCode": "S01-L07",
+        "value": "77000"
+      },
+      {
+        "code": "KPI-19",
+        "time": "2018/12/31 12:00:00.00",
+        "placeCode": "S01-L07",
+        "value": "82000"
+      },
+      {
+        "code": "KPI-19",
+        "time": "2018/12/31 13:00:00.00",
+        "placeCode": "S01-L07",
+        "value": "89000"
+      },
+      {
+        "code": "KPI-19",
+        "time": "2018/12/31 14:00:00.00",
+        "placeCode": "S01-L07",
+        "value": "75000"
+      },
+      {
+        "code": "KPI-19",
+        "time": "2018/12/31 15:00:00.00",
+        "placeCode": "S01-L07",
+        "value": "51000"
+      },
+      {
+        "code": "KPI-19",
+        "time": "2018/12/31 16:00:00.00",
+        "placeCode": "S01-L07",
+        "value": "82000"
+      },
+      {
+        "code": "KPI-19",
+        "time": "2018/12/31 17:00:00.00",
+        "placeCode": "S01-L07",
+        "value": "68000"
+      },
+      {
+        "code": "KPI-19",
+        "time": "2018/12/31 18:00:00.00",
+        "placeCode": "S01-L07",
+        "value": "89000"
+      },
+      {
+        "code": "KPI-19",
+        "time": "2018/12/31 19:00:00.00",
+        "placeCode": "S01-L07",
+        "value": "59000"
+      },
+      {
+        "code": "KPI-19",
+        "time": "2018/12/31 20:00:00.00",
+        "placeCode": "S01-L07",
+        "value": "79000"
+      },
+      {
+        "code": "KPI-19",
+        "time": "2018/12/31 21:00:00.00",
+        "placeCode": "S01-L07",
+        "value": "69000"
+      },
+      {
+        "code": "KPI-19",
+        "time": "2018/12/31 22:00:00.00",
+        "placeCode": "S01-L07",
+        "value": "90000"
+      },
+      {
+        "code": "KPI-19",
+        "time": "2018/12/31 23:00:00.00",
+        "placeCode": "S01-L07",
+        "value": "71000"
+      },
+      {
+        "code": "KPI-19",
+        "time": "2018/12/31 24:00:00.00",
+        "placeCode": "S01-L07",
+        "value": "48000"
+      },
+      {
+        "code": "KPI-19",
+        "time": "2019/01/01 01:00:00.00",
+        "placeCode": "S01-L07",
+        "value": "79000"
+      },
+      {
+        "code": "KPI-19",
+        "time": "2019/01/01 02:00:00.00",
+        "placeCode": "S01-L07",
+        "value": "58000"
+      },
+      {
+        "code": "KPI-19",
+        "time": "2019/01/01 03:00:00.00",
+        "placeCode": "S01-L07",
+        "value": "58000"
+      },
+      {
+        "code": "KPI-19",
+        "time": "2019/01/01 04:00:00.00",
+        "placeCode": "S01-L07",
+        "value": "69000"
+      },
+      {
+        "code": "KPI-19",
+        "time": "2019/01/01 05:00:00.00",
+        "placeCode": "S01-L07",
+        "value": "57000"
+      },
+      {
+        "code": "KPI-19",
+        "time": "2019/01/01 06:00:00.00",
+        "placeCode": "S01-L07",
+        "value": "57000"
+      },
+      {
+        "code": "KPI-19",
+        "time": "2019/01/01 07:00:00.00",
+        "placeCode": "S01-L07",
+        "value": "84000"
+      },
+      {
+        "code": "KPI-19",
+        "time": "2018/12/31 08:00:00.00",
+        "placeCode": "S01-L08",
+        "value": "81000"
+      },
+      {
+        "code": "KPI-19",
+        "time": "2018/12/31 09:00:00.00",
+        "placeCode": "S01-L08",
+        "value": "96000"
+      },
+      {
+        "code": "KPI-19",
+        "time": "2018/12/31 10:00:00.00",
+        "placeCode": "S01-L08",
+        "value": "81000"
+      },
+      {
+        "code": "KPI-19",
+        "time": "2018/12/31 11:00:00.00",
+        "placeCode": "S01-L08",
+        "value": "77000"
+      },
+      {
+        "code": "KPI-19",
+        "time": "2018/12/31 12:00:00.00",
+        "placeCode": "S01-L08",
+        "value": "82000"
+      },
+      {
+        "code": "KPI-19",
+        "time": "2018/12/31 13:00:00.00",
+        "placeCode": "S01-L08",
+        "value": "89000"
+      },
+      {
+        "code": "KPI-19",
+        "time": "2018/12/31 14:00:00.00",
+        "placeCode": "S01-L08",
+        "value": "75000"
+      },
+      {
+        "code": "KPI-19",
+        "time": "2018/12/31 15:00:00.00",
+        "placeCode": "S01-L08",
+        "value": "51000"
+      },
+      {
+        "code": "KPI-19",
+        "time": "2018/12/31 16:00:00.00",
+        "placeCode": "S01-L08",
+        "value": "82000"
+      },
+      {
+        "code": "KPI-19",
+        "time": "2018/12/31 17:00:00.00",
+        "placeCode": "S01-L08",
+        "value": "68000"
+      },
+      {
+        "code": "KPI-19",
+        "time": "2018/12/31 18:00:00.00",
+        "placeCode": "S01-L08",
+        "value": "89000"
+      },
+      {
+        "code": "KPI-19",
+        "time": "2018/12/31 19:00:00.00",
+        "placeCode": "S01-L08",
+        "value": "59000"
+      },
+      {
+        "code": "KPI-19",
+        "time": "2018/12/31 20:00:00.00",
+        "placeCode": "S01-L08",
+        "value": "79000"
+      },
+      {
+        "code": "KPI-19",
+        "time": "2018/12/31 21:00:00.00",
+        "placeCode": "S01-L08",
+        "value": "69000"
+      },
+      {
+        "code": "KPI-19",
+        "time": "2018/12/31 22:00:00.00",
+        "placeCode": "S01-L08",
+        "value": "90000"
+      },
+      {
+        "code": "KPI-19",
+        "time": "2018/12/31 23:00:00.00",
+        "placeCode": "S01-L08",
+        "value": "71000"
+      },
+      {
+        "code": "KPI-19",
+        "time": "2018/12/31 24:00:00.00",
+        "placeCode": "S01-L08",
+        "value": "48000"
+      },
+      {
+        "code": "KPI-19",
+        "time": "2019/01/01 01:00:00.00",
+        "placeCode": "S01-L08",
+        "value": "79000"
+      },
+      {
+        "code": "KPI-19",
+        "time": "2019/01/01 02:00:00.00",
+        "placeCode": "S01-L08",
+        "value": "58000"
+      },
+      {
+        "code": "KPI-19",
+        "time": "2019/01/01 03:00:00.00",
+        "placeCode": "S01-L08",
+        "value": "58000"
+      },
+      {
+        "code": "KPI-19",
+        "time": "2019/01/01 04:00:00.00",
+        "placeCode": "S01-L08",
+        "value": "69000"
+      },
+      {
+        "code": "KPI-19",
+        "time": "2019/01/01 05:00:00.00",
+        "placeCode": "S01-L08",
+        "value": "57000"
+      },
+      {
+        "code": "KPI-19",
+        "time": "2019/01/01 06:00:00.00",
+        "placeCode": "S01-L08",
+        "value": "57000"
+      },
+      {
+        "code": "KPI-19",
+        "time": "2019/01/01 07:00:00.00",
+        "placeCode": "S01-L08",
+        "value": "52000"
+      },
+      {
+        "code": "KPI-19",
+        "time": "2018/12/31 08:00:00.00",
+        "placeCode": "S01-L09",
+        "value": "81000"
+      },
+      {
+        "code": "KPI-19",
+        "time": "2018/12/31 09:00:00.00",
+        "placeCode": "S01-L09",
+        "value": "96000"
+      },
+      {
+        "code": "KPI-19",
+        "time": "2018/12/31 10:00:00.00",
+        "placeCode": "S01-L09",
+        "value": "81000"
+      },
+      {
+        "code": "KPI-19",
+        "time": "2018/12/31 11:00:00.00",
+        "placeCode": "S01-L09",
+        "value": "77000"
+      },
+      {
+        "code": "KPI-19",
+        "time": "2018/12/31 12:00:00.00",
+        "placeCode": "S01-L09",
+        "value": "82000"
+      },
+      {
+        "code": "KPI-19",
+        "time": "2018/12/31 13:00:00.00",
+        "placeCode": "S01-L09",
+        "value": "89000"
+      },
+      {
+        "code": "KPI-19",
+        "time": "2018/12/31 14:00:00.00",
+        "placeCode": "S01-L09",
+        "value": "75000"
+      },
+      {
+        "code": "KPI-19",
+        "time": "2018/12/31 15:00:00.00",
+        "placeCode": "S01-L09",
+        "value": "51000"
+      },
+      {
+        "code": "KPI-19",
+        "time": "2018/12/31 16:00:00.00",
+        "placeCode": "S01-L09",
+        "value": "82000"
+      },
+      {
+        "code": "KPI-19",
+        "time": "2018/12/31 17:00:00.00",
+        "placeCode": "S01-L09",
+        "value": "68000"
+      },
+      {
+        "code": "KPI-19",
+        "time": "2018/12/31 18:00:00.00",
+        "placeCode": "S01-L09",
+        "value": "89000"
+      },
+      {
+        "code": "KPI-19",
+        "time": "2018/12/31 19:00:00.00",
+        "placeCode": "S01-L09",
+        "value": "59000"
+      },
+      {
+        "code": "KPI-19",
+        "time": "2018/12/31 20:00:00.00",
+        "placeCode": "S01-L09",
+        "value": "79000"
+      },
+      {
+        "code": "KPI-19",
+        "time": "2018/12/31 21:00:00.00",
+        "placeCode": "S01-L09",
+        "value": "69000"
+      },
+      {
+        "code": "KPI-19",
+        "time": "2018/12/31 22:00:00.00",
+        "placeCode": "S01-L09",
+        "value": "90000"
+      },
+      {
+        "code": "KPI-19",
+        "time": "2018/12/31 23:00:00.00",
+        "placeCode": "S01-L09",
+        "value": "71000"
+      },
+      {
+        "code": "KPI-19",
+        "time": "2018/12/31 24:00:00.00",
+        "placeCode": "S01-L09",
+        "value": "48000"
+      },
+      {
+        "code": "KPI-19",
+        "time": "2019/01/01 01:00:00.00",
+        "placeCode": "S01-L09",
+        "value": "79000"
+      },
+      {
+        "code": "KPI-19",
+        "time": "2019/01/01 02:00:00.00",
+        "placeCode": "S01-L09",
+        "value": "58000"
+      },
+      {
+        "code": "KPI-19",
+        "time": "2019/01/01 03:00:00.00",
+        "placeCode": "S01-L09",
+        "value": "58000"
+      },
+      {
+        "code": "KPI-19",
+        "time": "2019/01/01 04:00:00.00",
+        "placeCode": "S01-L09",
+        "value": "69000"
+      },
+      {
+        "code": "KPI-19",
+        "time": "2019/01/01 05:00:00.00",
+        "placeCode": "S01-L09",
+        "value": "57000"
+      },
+      {
+        "code": "KPI-19",
+        "time": "2019/01/01 06:00:00.00",
+        "placeCode": "S01-L09",
+        "value": "57000"
+      },
+      {
+        "code": "KPI-19",
+        "time": "2019/01/01 07:00:00.00",
+        "placeCode": "S01-L09",
+        "value": "78000"
+      },
+      {
+        "code": "KPI-19",
+        "time": "2018/12/31 08:00:00.00",
+        "placeCode": "S01-L10",
+        "value": "81000"
+      },
+      {
+        "code": "KPI-19",
+        "time": "2018/12/31 09:00:00.00",
+        "placeCode": "S01-L10",
+        "value": "96000"
+      },
+      {
+        "code": "KPI-19",
+        "time": "2018/12/31 10:00:00.00",
+        "placeCode": "S01-L10",
+        "value": "81000"
+      },
+      {
+        "code": "KPI-19",
+        "time": "2018/12/31 11:00:00.00",
+        "placeCode": "S01-L10",
+        "value": "77000"
+      },
+      {
+        "code": "KPI-19",
+        "time": "2018/12/31 12:00:00.00",
+        "placeCode": "S01-L10",
+        "value": "82000"
+      },
+      {
+        "code": "KPI-19",
+        "time": "2018/12/31 13:00:00.00",
+        "placeCode": "S01-L10",
+        "value": "89000"
+      },
+      {
+        "code": "KPI-19",
+        "time": "2018/12/31 14:00:00.00",
+        "placeCode": "S01-L10",
+        "value": "75000"
+      },
+      {
+        "code": "KPI-19",
+        "time": "2018/12/31 15:00:00.00",
+        "placeCode": "S01-L10",
+        "value": "51000"
+      },
+      {
+        "code": "KPI-19",
+        "time": "2018/12/31 16:00:00.00",
+        "placeCode": "S01-L10",
+        "value": "82000"
+      },
+      {
+        "code": "KPI-19",
+        "time": "2018/12/31 17:00:00.00",
+        "placeCode": "S01-L10",
+        "value": "68000"
+      },
+      {
+        "code": "KPI-19",
+        "time": "2018/12/31 18:00:00.00",
+        "placeCode": "S01-L10",
+        "value": "89000"
+      },
+      {
+        "code": "KPI-19",
+        "time": "2018/12/31 19:00:00.00",
+        "placeCode": "S01-L10",
+        "value": "59000"
+      },
+      {
+        "code": "KPI-19",
+        "time": "2018/12/31 20:00:00.00",
+        "placeCode": "S01-L10",
+        "value": "79000"
+      },
+      {
+        "code": "KPI-19",
+        "time": "2018/12/31 21:00:00.00",
+        "placeCode": "S01-L10",
+        "value": "69000"
+      },
+      {
+        "code": "KPI-19",
+        "time": "2018/12/31 22:00:00.00",
+        "placeCode": "S01-L10",
+        "value": "90000"
+      },
+      {
+        "code": "KPI-19",
+        "time": "2018/12/31 23:00:00.00",
+        "placeCode": "S01-L10",
+        "value": "71000"
+      },
+      {
+        "code": "KPI-19",
+        "time": "2018/12/31 24:00:00.00",
+        "placeCode": "S01-L10",
+        "value": "48000"
+      },
+      {
+        "code": "KPI-19",
+        "time": "2019/01/01 01:00:00.00",
+        "placeCode": "S01-L10",
+        "value": "79000"
+      },
+      {
+        "code": "KPI-19",
+        "time": "2019/01/01 02:00:00.00",
+        "placeCode": "S01-L10",
+        "value": "58000"
+      },
+      {
+        "code": "KPI-19",
+        "time": "2019/01/01 03:00:00.00",
+        "placeCode": "S01-L10",
+        "value": "58000"
+      },
+      {
+        "code": "KPI-19",
+        "time": "2019/01/01 04:00:00.00",
+        "placeCode": "S01-L10",
+        "value": "69000"
+      },
+      {
+        "code": "KPI-19",
+        "time": "2019/01/01 05:00:00.00",
+        "placeCode": "S01-L10",
+        "value": "57000"
+      },
+      {
+        "code": "KPI-19",
+        "time": "2019/01/01 06:00:00.00",
+        "placeCode": "S01-L10",
+        "value": "57000"
+      },
+      {
+        "code": "KPI-19",
+        "time": "2019/01/01 07:00:00.00",
+        "placeCode": "S01-L10",
+        "value": "78000"
+      },
+      {
+        "code": "KPI-19",
+        "time": "2018/12/31 08:00:00.00",
+        "placeCode": "S01-L11",
+        "value": "81000"
+      },
+      {
+        "code": "KPI-19",
+        "time": "2018/12/31 09:00:00.00",
+        "placeCode": "S01-L11",
+        "value": "96000"
+      },
+      {
+        "code": "KPI-19",
+        "time": "2018/12/31 10:00:00.00",
+        "placeCode": "S01-L11",
+        "value": "81000"
+      },
+      {
+        "code": "KPI-19",
+        "time": "2018/12/31 11:00:00.00",
+        "placeCode": "S01-L11",
+        "value": "77000"
+      },
+      {
+        "code": "KPI-19",
+        "time": "2018/12/31 12:00:00.00",
+        "placeCode": "S01-L11",
+        "value": "82000"
+      },
+      {
+        "code": "KPI-19",
+        "time": "2018/12/31 13:00:00.00",
+        "placeCode": "S01-L11",
+        "value": "89000"
+      },
+      {
+        "code": "KPI-19",
+        "time": "2018/12/31 14:00:00.00",
+        "placeCode": "S01-L11",
+        "value": "75000"
+      },
+      {
+        "code": "KPI-19",
+        "time": "2018/12/31 15:00:00.00",
+        "placeCode": "S01-L11",
+        "value": "51000"
+      },
+      {
+        "code": "KPI-19",
+        "time": "2018/12/31 16:00:00.00",
+        "placeCode": "S01-L11",
+        "value": "82000"
+      },
+      {
+        "code": "KPI-19",
+        "time": "2018/12/31 17:00:00.00",
+        "placeCode": "S01-L11",
+        "value": "68000"
+      },
+      {
+        "code": "KPI-19",
+        "time": "2018/12/31 18:00:00.00",
+        "placeCode": "S01-L11",
+        "value": "89000"
+      },
+      {
+        "code": "KPI-19",
+        "time": "2018/12/31 19:00:00.00",
+        "placeCode": "S01-L11",
+        "value": "59000"
+      },
+      {
+        "code": "KPI-19",
+        "time": "2018/12/31 20:00:00.00",
+        "placeCode": "S01-L11",
+        "value": "79000"
+      },
+      {
+        "code": "KPI-19",
+        "time": "2018/12/31 21:00:00.00",
+        "placeCode": "S01-L11",
+        "value": "69000"
+      },
+      {
+        "code": "KPI-19",
+        "time": "2018/12/31 22:00:00.00",
+        "placeCode": "S01-L11",
+        "value": "90000"
+      },
+      {
+        "code": "KPI-19",
+        "time": "2018/12/31 23:00:00.00",
+        "placeCode": "S01-L11",
+        "value": "71000"
+      },
+      {
+        "code": "KPI-19",
+        "time": "2018/12/31 24:00:00.00",
+        "placeCode": "S01-L11",
+        "value": "48000"
+      },
+      {
+        "code": "KPI-19",
+        "time": "2019/01/01 01:00:00.00",
+        "placeCode": "S01-L11",
+        "value": "79000"
+      },
+      {
+        "code": "KPI-19",
+        "time": "2019/01/01 02:00:00.00",
+        "placeCode": "S01-L11",
+        "value": "58000"
+      },
+      {
+        "code": "KPI-19",
+        "time": "2019/01/01 03:00:00.00",
+        "placeCode": "S01-L11",
+        "value": "58000"
+      },
+      {
+        "code": "KPI-19",
+        "time": "2019/01/01 04:00:00.00",
+        "placeCode": "S01-L11",
+        "value": "69000"
+      },
+      {
+        "code": "KPI-19",
+        "time": "2019/01/01 05:00:00.00",
+        "placeCode": "S01-L11",
+        "value": "57000"
+      },
+      {
+        "code": "KPI-19",
+        "time": "2019/01/01 06:00:00.00",
+        "placeCode": "S01-L11",
+        "value": "57000"
+      },
+      {
+        "code": "KPI-19",
+        "time": "2019/01/01 07:00:00.00",
+        "placeCode": "S01-L11",
+        "value": "96000"
+      },
+      {
+        "code": "KPI-19",
+        "time": "2018/12/31 08:00:00.00",
+        "placeCode": "S01-L12",
+        "value": "81000"
+      },
+      {
+        "code": "KPI-19",
+        "time": "2018/12/31 09:00:00.00",
+        "placeCode": "S01-L12",
+        "value": "96000"
+      },
+      {
+        "code": "KPI-19",
+        "time": "2018/12/31 10:00:00.00",
+        "placeCode": "S01-L12",
+        "value": "81000"
+      },
+      {
+        "code": "KPI-19",
+        "time": "2018/12/31 11:00:00.00",
+        "placeCode": "S01-L12",
+        "value": "77000"
+      },
+      {
+        "code": "KPI-19",
+        "time": "2018/12/31 12:00:00.00",
+        "placeCode": "S01-L12",
+        "value": "82000"
+      },
+      {
+        "code": "KPI-19",
+        "time": "2018/12/31 13:00:00.00",
+        "placeCode": "S01-L12",
+        "value": "89000"
+      },
+      {
+        "code": "KPI-19",
+        "time": "2018/12/31 14:00:00.00",
+        "placeCode": "S01-L12",
+        "value": "75000"
+      },
+      {
+        "code": "KPI-19",
+        "time": "2018/12/31 15:00:00.00",
+        "placeCode": "S01-L12",
+        "value": "51000"
+      },
+      {
+        "code": "KPI-19",
+        "time": "2018/12/31 16:00:00.00",
+        "placeCode": "S01-L12",
+        "value": "82000"
+      },
+      {
+        "code": "KPI-19",
+        "time": "2018/12/31 17:00:00.00",
+        "placeCode": "S01-L12",
+        "value": "68000"
+      },
+      {
+        "code": "KPI-19",
+        "time": "2018/12/31 18:00:00.00",
+        "placeCode": "S01-L12",
+        "value": "89000"
+      },
+      {
+        "code": "KPI-19",
+        "time": "2018/12/31 19:00:00.00",
+        "placeCode": "S01-L12",
+        "value": "59000"
+      },
+      {
+        "code": "KPI-19",
+        "time": "2018/12/31 20:00:00.00",
+        "placeCode": "S01-L12",
+        "value": "79000"
+      },
+      {
+        "code": "KPI-19",
+        "time": "2018/12/31 21:00:00.00",
+        "placeCode": "S01-L12",
+        "value": "69000"
+      },
+      {
+        "code": "KPI-19",
+        "time": "2018/12/31 22:00:00.00",
+        "placeCode": "S01-L12",
+        "value": "90000"
+      },
+      {
+        "code": "KPI-19",
+        "time": "2018/12/31 23:00:00.00",
+        "placeCode": "S01-L12",
+        "value": "71000"
+      },
+      {
+        "code": "KPI-19",
+        "time": "2018/12/31 24:00:00.00",
+        "placeCode": "S01-L12",
+        "value": "48000"
+      },
+      {
+        "code": "KPI-19",
+        "time": "2019/01/01 01:00:00.00",
+        "placeCode": "S01-L12",
+        "value": "79000"
+      },
+      {
+        "code": "KPI-19",
+        "time": "2019/01/01 02:00:00.00",
+        "placeCode": "S01-L12",
+        "value": "58000"
+      },
+      {
+        "code": "KPI-19",
+        "time": "2019/01/01 03:00:00.00",
+        "placeCode": "S01-L12",
+        "value": "58000"
+      },
+      {
+        "code": "KPI-19",
+        "time": "2019/01/01 04:00:00.00",
+        "placeCode": "S01-L12",
+        "value": "69000"
+      },
+      {
+        "code": "KPI-19",
+        "time": "2019/01/01 05:00:00.00",
+        "placeCode": "S01-L12",
+        "value": "57000"
+      },
+      {
+        "code": "KPI-19",
+        "time": "2019/01/01 06:00:00.00",
+        "placeCode": "S01-L12",
+        "value": "57000"
+      },
+      {
+        "code": "KPI-19",
+        "time": "2019/01/01 07:00:00.00",
+        "placeCode": "S01-L12",
+        "value": "39000"
+      },
+      {
+        "code": "KPI-20",
+        "time": "",
+        "placeCode": "SLFA",
+        "value": "8952"
+      }
+    ],
+    "threshold": [
+      {
+        "code": "KPI-01",
+        "value": "60"
+      },
+      {
+        "code": "KPI-02",
+        "value": "50"
+      },
+      {
+        "code": "KPI-03",
+        "value": "50"
+      },
+      {
+        "code": "KPI-04",
+        "value": "80"
+      },
+      {
+        "code": "KPI-05",
+        "value": "80"
+      },
+      {
+        "code": "KPI-06",
+        "value": "60"
+      },
+      {
+        "code": "KPI-09",
+        "value": "60"
+      },
+      {
+        "code": "KPI-17",
+        "value": "67"
+      },
+      {
+        "code": "KPI-18",
+        "value": "67"
+      }
+    ]
+  }
+}

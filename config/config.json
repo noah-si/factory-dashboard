@@ -1,0 +1,15 @@
+{
+  "kpiDataPeriod": 5,
+  "mesUrl": "http://192.168.0.240:8090",
+  "wmsUrl": "http://192.168.0.239:8089/ProductionOrder/Call",
+  "moveCameraDuration": 1000,
+  "autoRotateSpeed": 1.0,
+  "movie": {
+    "factoryIntroduction": "/movies/factoryintroduction.mp4",
+    "productionIntroduction": "/movies/productionintroduction.mp4",
+    "logisticsPath": "/movies/logisticspath.mp4",
+    "autoLine": "/movies/autoline.mp4",
+    "stockIn": "/movies/stockin.mp4",
+    "stockOut": "/movies/stockout.mp4"
+  }
+}

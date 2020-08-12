@@ -1,0 +1,302 @@
+{
+  "status": {
+    "code": "I00",
+    "message": ""
+  },
+  "result": {
+    "kpi": [
+      {
+        "code": "KPI-01",
+        "cnName": "综合设备效率",
+        "enName": "OEE",
+        "unitName": "%",
+        "level": "工厂级"
+      },
+      {
+        "code": "KPI-02",
+        "cnName": "设备利用率",
+        "enName": "Equipment Utilization Rate",
+        "unitName": "%",
+        "level": "工厂级"
+      },
+      {
+        "code": "KPI-03",
+        "cnName": "设备故障率",
+        "enName": "Equipment Failure Rate",
+        "unitName": "%",
+        "level": "工厂级"
+      },
+      {
+        "code": "KPI-04",
+        "cnName": "良品率",
+        "enName": "VPY",
+        "unitName": "%",
+        "level": "工厂级"
+      },
+      {
+        "code": "KPI-05",
+        "cnName": "设备生产效率",
+        "enName": "Factory Availability",
+        "unitName": "%",
+        "level": "工厂级"
+      },
+      {
+        "code": "KPI-06",
+        "cnName": "一次成品率",
+        "enName": "FPY",
+        "unitName": "%",
+        "level": "工厂级"
+      },
+      {
+        "code": "KPI-07",
+        "cnName": "生产量",
+        "enName": "Production Volume",
+        "unitName": "K",
+        "level": "工厂级"
+      },
+      {
+        "code": "KPI-08",
+        "cnName": "从业人员数",
+        "enName": "Employee",
+        "unitName": "人",
+        "level": "工厂级"
+      },
+      {
+        "code": "KPI-09",
+        "cnName": "成品库存周转率",
+        "enName": "Inventory \nTurnover of \nProducts",
+        "unitName": "%",
+        "level": "工厂级"
+      },
+      {
+        "code": "KPI-10",
+        "cnName": "过去一小时\n入库待检单数量",
+        "enName": "To Be Tested List",
+        "unitName": "个",
+        "level": "工厂级"
+      },
+      {
+        "code": "KPI-11",
+        "cnName": "过去一小时\n上架料盘数量",
+        "enName": "Upper Shelf Reels",
+        "unitName": "个",
+        "level": "工厂级"
+      },
+      {
+        "code": "KPI-12",
+        "cnName": "过去一小时\n备料中备料单数量",
+        "enName": "Preparation List",
+        "unitName": "个",
+        "level": "工厂级"
+      },
+      {
+        "code": "KPI-13",
+        "cnName": "当前WCS\n出库任务数",
+        "enName": "Outbound Tasks",
+        "unitName": "个",
+        "level": "工厂级"
+      },
+      {
+        "code": "KPI-14",
+        "cnName": "当前WCS\n入库任务数",
+        "enName": "Inbound Tasks",
+        "unitName": "个",
+        "level": "工厂级"
+      },
+      {
+        "code": "KPI-15",
+        "cnName": "过去一小时\nWCS进出任务数",
+        "enName": "Last One Hour In&Out Tasks",
+        "unitName": "个",
+        "level": "工厂级"
+      },
+      {
+        "code": "KPI-16",
+        "cnName": "设备状态",
+        "enName": "Equipment Status",
+        "unitName": "",
+        "level": "设备级"
+      },
+      {
+        "code": "KPI-17",
+        "cnName": "设备生产效率",
+        "enName": "Line Availability",
+        "unitName": "%",
+        "level": "线体级"
+      },
+      {
+        "code": "KPI-18",
+        "cnName": "良品率",
+        "enName": "VPY",
+        "unitName": "%",
+        "level": "线体级"
+      },
+      {
+        "code": "KPI-19",
+        "cnName": "拼板生产量",
+        "enName": "Pattern Volume",
+        "unitName": "",
+        "level": "线体级"
+      },
+      {
+        "code": "KPI-20",
+        "cnName": "当日备料单数",
+        "enName": "Preparation List",
+        "unitName": "个",
+        "level": "工厂级"
+      }
+    ],
+    "place": [
+      {
+        "code": "SLFA",
+        "cnName": "",
+        "enName": "",
+        "layoutCode": ""
+      },
+      {
+        "code": "S01-L01",
+        "cnName": "",
+        "enName": "",
+        "layoutCode": "LINE-A-01"
+      },
+      {
+        "code": "S01-L02",
+        "cnName": "",
+        "enName": "",
+        "layoutCode": "LINE-A-02"
+      },
+      {
+        "code": "S01-L03",
+        "cnName": "",
+        "enName": "",
+        "layoutCode": "LINE-A-03"
+      },
+      {
+        "code": "S01-L04",
+        "cnName": "",
+        "enName": "",
+        "layoutCode": "LINE-A-04"
+      },
+      {
+        "code": "S01-L05",
+        "cnName": "",
+        "enName": "",
+        "layoutCode": "LINE-A-05"
+      },
+      {
+        "code": "S01-L06",
+        "cnName": "",
+        "enName": "",
+        "layoutCode": "LINE-A-06"
+      },
+      {
+        "code": "S01-L07",
+        "cnName": "",
+        "enName": "",
+        "layoutCode": "LINE-A-07"
+      },
+      {
+        "code": "S01-L08",
+        "cnName": "",
+        "enName": "",
+        "layoutCode": "LINE-A-08"
+      },
+      {
+        "code": "S01-L09",
+        "cnName": "",
+        "enName": "",
+        "layoutCode": "LINE-A-09"
+      },
+      {
+        "code": "S01-L10",
+        "cnName": "",
+        "enName": "",
+        "layoutCode": "LINE-A-10"
+      },
+      {
+        "code": "S01-L11",
+        "cnName": "",
+        "enName": "",
+        "layoutCode": "LINE-A-11"
+      },
+      {
+        "code": "S01-L12",
+        "cnName": "",
+        "enName": "",
+        "layoutCode": "LINE-A-12"
+      },
+      {
+        "code": "S01-L01-MPI-M1",
+        "cnName": "镭射刻码机",
+        "enName": "Laser Making",
+        "layoutCode": "LINE-A-01-01"
+      },
+      {
+        "code": "S01-L01-PRINT-M1",
+        "cnName": "锡膏印刷机",
+        "enName": "SPG",
+        "layoutCode": "LINE-A-01-04"
+      },
+      {
+        "code": "S01-L01-SPI-M1",
+        "cnName": "锡膏检测仪",
+        "enName": "SPI",
+        "layoutCode": "LINE-A-01-08"
+      },
+      {
+        "code": "S01-L01-NPM-M1",
+        "cnName": "贴片机",
+        "enName": "Mounting",
+        "layoutCode": "LINE-A-01-10"
+      },
+      {
+        "code": "S01-L01-NPM-M2",
+        "cnName": "贴片机",
+        "enName": "Mounting",
+        "layoutCode": "LINE-A-01-11"
+      },
+      {
+        "code": "S01-L01-ICT-M1",
+        "cnName": "在线检测仪",
+        "enName": "ICT",
+        "layoutCode": "LINE-A-01-17"
+      },
+      {
+        "code": "S01-L02-MPI-M1",
+        "cnName": "镭射刻码机",
+        "enName": "Laser Making",
+        "layoutCode": "LINE-A-02-02"
+      },
+      {
+        "code": "S01-L02-PRINTER-M1",
+        "cnName": "锡膏印刷机",
+        "enName": "SPG",
+        "layoutCode": "LINE-A-02-04"
+      },
+      {
+        "code": "S01-L02-SPI-M1",
+        "cnName": "锡膏检测仪",
+        "enName": "SPI",
+        "layoutCode": "LINE-A-02-06"
+      },
+      {
+        "code": "S01-L02-NPM-M1",
+        "cnName": "贴片机",
+        "enName": "Mounting",
+        "layoutCode": "LINE-A-02-09"
+      },
+      {
+        "code": "S01-L02-NPM-M2",
+        "cnName": "贴片机",
+        "enName": "Mounting",
+        "layoutCode": "LINE-A-02-10"
+      },
+      {
+        "code": "S01-L02-ICT-M1",
+        "cnName": "在线检测仪",
+        "enName": "ICT",
+        "layoutCode": "LINE-A-02-18"
+      }
+    ]
+  }
+}
